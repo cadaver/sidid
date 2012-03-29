@@ -1,6 +1,6 @@
 SIDId V1.07 - Quick & dirty HVSC playroutine identity scanner
 Written by Cadaver (loorni@gmail.com), playroutine signatures provided by Ian 
-Coog, Ice00 & Yodelking
+Coog, Ice00, Yodelking & Wilfred/HVSC
 
 Usage: sidid [directory to scan] [options]
 
@@ -21,7 +21,7 @@ to be in the same dir as the executable. Otherwise, it has to be specified
 either with the command line option or with the enviroment variable SIDIDCFG.
 
 In the configfile, player signature names must not contain spaces and should be
-under 24 letters for neat display. A signature consists of hexadecimal values 
+under 24 letters for neat display. A signature consists of hexadecimal values
 and ?? to accept any byte at that position. AND means to skip any number of 
 bytes and then continue when the next byte is matched. END ends the current 
 signature. Multiple signatures can exist for one player, see for example 
@@ -32,7 +32,7 @@ preferably also not zeropage, unless it is known that the playroutine is never
 zeropage-relocated.
 
 No responsibility whatsoever is taken for the correctness of the existing
-signatures! Additional sigs by Yodelking, Ian Coog and ice00.
+signatures! Additional sigs by Yodelking, Ian Coog, ice00 & Wilfred/HVSC.
 
 Note: DigiOrganizer is listed last in the configfile, so it is not found by
 default when a tune contains another recognized playroutine. Use -m to find

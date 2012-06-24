@@ -1,6 +1,6 @@
 SIDId V1.07 - Quick & dirty HVSC playroutine identity scanner
-Written by Cadaver (loorni@gmail.com), playroutine signatures provided by Ian 
-Coog, Ice00, Yodelking & Wilfred/HVSC
+Written by Cadaver (loorni@gmail.com), playroutine signatures provided by Ian
+Coog, Ice00, Yodelking, Wilfred/HVSC and Fred/HVSC
 
 Usage: sidid [directory to scan] [options]
 

@@ -1,4 +1,4 @@
-SIDId V1.07 - Quick & dirty HVSC playroutine identity scanner
+SIDId V1.08 - Quick & dirty HVSC playroutine identity scanner
 Written by Cadaver (loorni@gmail.com), playroutine signatures provided by Ian
 Coog, Ice00, Yodelking, Wilfred/HVSC and Fred/HVSC
 
@@ -51,11 +51,12 @@ V1.05   - Added option to not recurse subdirs
 V1.06   - Directory to scan can be given as an argument
         - Added option -c to specify the configfile
         - Added option -? to show usage information
-V1.07   - Fixed AND function to work in the case where false first byte(s) of 
+V1.07   - Fixed AND function to work in the case where false first byte(s) of
           the sequence past AND are encountered before the proper sequence
+V1.08   - List full filenames when scanning for one player only
           
          
-Copyright (C) 2006-2010 by the author & contributors. All rights reserved.
+Copyright (C) 2006-2012 by the author & contributors. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:

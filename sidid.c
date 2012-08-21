@@ -1,9 +1,9 @@
 /*
- * SIDId V1.07 - Quick & dirty HVSC playroutine identity scanner
+ * SIDId V1.08 - Quick & dirty HVSC playroutine identity scanner
  * Written by Cadaver (loorni@gmail.com), playroutine signatures provided by Ian
  * Coog, Ice00 & Yodelking
  * 
- * Copyright (C) 2006-2010 by the author & contributors. All rights reserved.
+ * Copyright (C) 2006-2012 by the author & contributors. All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
@@ -388,13 +388,15 @@ void identifyfile(char *name, char *fullname)
   fread(buffer, 1, length, in);
   fclose(in);
 
-  fullname[56] = 0;
+  if (!playerid)
+    fullname[56] = 0;
+  
   while (id)
   {
     if (identifybuffer(id, buffer, length))
     {
-    	id->count++;
-    	if (!found)
+      id->count++;
+      if (!found)
       {
         found = 1;
         identified++;
@@ -405,7 +407,10 @@ void identifyfile(char *name, char *fullname)
       }
       if (!onlyunknown)
       {
-        printf("%-56s %s\n", fullname, id->name);
+        if (!playerid)
+          printf("%-56s %s\n", fullname, id->name);
+        else
+          printf("%s\n", fullname);
       }
       if (!multiscan) break;
     }
@@ -417,6 +422,7 @@ void identifyfile(char *name, char *fullname)
     unidentified++;
     if ((unknown) || (onlyunknown))
     {
+      fullname[56] = 0;
       printf("%-56s *Unidentified*\n", fullname);
     }
   }

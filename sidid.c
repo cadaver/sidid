@@ -1,7 +1,7 @@
 /*
  * SIDId V1.09 - Quick & dirty HVSC playroutine identity scanner
  * Written by Cadaver (loorni@gmail.com), playroutine signatures provided by Ian
- * Coog, Ice00 & Yodelking
+ * Coog, Ice00, Yodelking and Wilfred/HVSC
  * 
  * Copyright (C) 2006-2012 by the author & contributors. All rights reserved.
  *

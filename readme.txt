@@ -1,6 +1,6 @@
 SIDId V1.09 - Quick & dirty HVSC playroutine identity scanner
 Written by Cadaver (loorni@gmail.com), playroutine signatures provided by Ian
-Coog, Ice00, Yodelking, Wilfred/HVSC and Fred/HVSC
+Coog, Ice00, Yodelking and Wilfred/HVSC
 
 Usage: sidid [directory to scan] [options]
 
@@ -17,7 +17,7 @@ Options:
 Redirect output to file as necessary.
 
 For win32 systems only, the signature configuration file (sidid.cfg) is assumed
-to be in the same dir as the executable. Otherwise, it has to be specified 
+to be in the same dir as the executable. Otherwise, it has to be specified
 either with the command line option or with the enviroment variable SIDIDCFG.
 
 In the configfile, player signature names must not contain spaces and should be

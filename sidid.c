@@ -1,5 +1,5 @@
 /*
- * SIDId V1.08 - Quick & dirty HVSC playroutine identity scanner
+ * SIDId V1.09 - Quick & dirty HVSC playroutine identity scanner
  * Written by Cadaver (loorni@gmail.com), playroutine signatures provided by Ian
  * Coog, Ice00 & Yodelking
  * 
@@ -258,7 +258,7 @@ void readconfig(char *name)
             if ((!newsig) || (!newbytes))
             {
               printf("Out of memory!\n");
-          	  goto CONFIG_ERROR;
+              goto CONFIG_ERROR;
             }
             newsig->bytes = newbytes;
             newsig->next = NULL;
@@ -282,7 +282,7 @@ void readconfig(char *name)
               {
                 if (lastsig)
                 {
-            	    lastsig->next = (void *)newsig;
+                  lastsig->next = (void *)newsig;
                 }
               }
             }
@@ -460,9 +460,9 @@ int identifybytes(int *bytes, unsigned char *buffer, int length)
     }
     else
     {
-  		if (bytes[d] == END) return 1;
-  		if (bytes[d] == AND)
-  		{
+      if (bytes[d] == END) return 1;
+      if (bytes[d] == AND)
+      {
         d++;
         while (c < length)
         {
@@ -476,7 +476,7 @@ int identifybytes(int *bytes, unsigned char *buffer, int length)
         }
         if (c >= length)
           return 0;
-  		}
+      }
       if ((bytes[d] != ANY) && (buffer[c] != bytes[d]))
       {
         c = rc;
@@ -489,6 +489,7 @@ int identifybytes(int *bytes, unsigned char *buffer, int length)
       }
     }
   }
+  if (bytes[d] == END) return 1;
   return 0;
 }
 

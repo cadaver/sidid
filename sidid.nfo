@@ -14,20 +14,14 @@ REFERENCE: http://csdb.dk/release/?id=10741
            More info about this technique:
            http://csdb.dk/forums/?roomid=14&topicid=24626
 
-8bitDigi_2/THCM
-   AUTHOR: Uwe Anfang (The Human Code Machine)
+4bitDigi/Mahoney
+   AUTHOR: Pex Tufvesson (Mahoney)
 
 5_Dimension
      NAME: 5 Dimension Composer
    AUTHOR: Pleite Geier
  RELEASED: 1990 Pleite Geier
 REFERENCE: http://csdb.dk/release/?id=122330
-
-Alexander_Kirsch
-     NAME: Audio Effect Editor
-   AUTHOR: Alexander Kirsch
- RELEASED: 1988
-REFERENCE: http://csdb.dk/release/?id=122169
 
 ALiH
    AUTHOR: Jaymz Julian (A Life in Hell)
@@ -95,6 +89,12 @@ Audial_Revolution
  RELEASED: 1989 Audial Revolution
 REFERENCE: http://csdb.dk/release/?id=71543
 
+Audio_Effect_Editor
+     NAME: Audio Effect Editor
+   AUTHOR: Alexander Kirsch
+ RELEASED: 1988
+REFERENCE: http://csdb.dk/release/?id=122169
+
 Ben_Daglish
    AUTHOR: Ben Daglish
   COMMENT: A few editors are written for this player, see reference
@@ -112,12 +112,12 @@ Censored_Editor
  RELEASED: 1990 Censor Design
 REFERENCE: http://csdb.dk/release/?id=91724
 
-CheeseCutter_2.0
+CheeseCutter_2.x
    AUTHOR: Timo Taipalus (Abaddon)
  RELEASED: 2011
 REFERENCE: http://csdb.dk/release/?id=106959
 
-CheeseCutter_2.5
+(CheeseCutter_2.5+)
    AUTHOR: Timo Taipalus (Abaddon)
  RELEASED: 2013
 REFERENCE: http://csdb.dk/release/?id=118865
@@ -153,7 +153,7 @@ CRD_Tracker
 REFERENCE: http://csdb.dk/release/?id=48461
 
 Conrad/Samar
-    AUTHOR: Owen Crowley (Conrad)
+   AUTHOR: Owen Crowley (Conrad)
 
 CRL/Jay_Derrett
    AUTHOR: Jay Derrett
@@ -202,6 +202,12 @@ DefMon
 REFERENCE: http://csdb.dk/release/?id=120965
   COMMENT: Made in 2008, released in 2013
 
+Digi-Organizer
+     NAME: Digi-Organizer
+   AUTHOR: Pawel Soltysinski (Polonus) & Marco Wienkoop (Lubber)
+ RELEASED: 1991 Padua
+REFERENCE: http://csdb.dk/release/?id=871
+
 Digitalizer_V3.0
    AUTHOR: Olav Mørkrid
  RELEASED: 1992
@@ -239,6 +245,12 @@ REFERENCE: http://csdb.dk/release/?id=2594
 DMC_V6.x
      NAME: Demo Music Creator System (DMC)
    AUTHOR: Balazs Farkas (Brian)
+
+DrumEditor
+     NAME: Drumeditor V3.0
+   AUTHOR: Frank Hugenroth & André Hugenroth
+ RELEASED: 1990 64'er/Markt & Technik
+REFERENCE: http://csdb.dk/release/?id=136179
 
 DrumStudio
      NAME: Drum Studio
@@ -468,18 +480,33 @@ Heathcliff/DigitalArts
  RELEASED: 1990 Digital Arts
 REFERENCE: http://csdb.dk/release/?id=112794
 
-Hermit
+Hermit/SidWizard_V1.x
    AUTHOR: Mihály Horváth (Hermit)
+
+(SidWizard_V1.0)
+   AUTHOR: Mihály Horváth (Hermit)
+ RELEASED: 2012
+REFERENCE: http://csdb.dk/release/?id=110942
+
+(SidWizard_V1.2)
+   AUTHOR: Mihály Horváth (Hermit)
+ RELEASED: 2012
+REFERENCE: http://csdb.dk/release/?id=112716
+
+(SidWizard_V1.4)
+   AUTHOR: Mihály Horváth (Hermit)
+ RELEASED: 2013
+REFERENCE: http://csdb.dk/release/?id=115599
+
+(SidWizard_V1.5)
+   AUTHOR: Mihály Horváth (Hermit)
+ RELEASED: 2013
+REFERENCE: http://csdb.dk/release/?id=126797
 
 (Hermit/3SID)
    AUTHOR: Mihály Horváth (Hermit)
  RELEASED: 2008
 REFERENCE: http://csdb.dk/release/?id=66065
-
-Hermit/SidWizard_V1
-   AUTHOR: Mihály Horváth (Hermit)
- RELEASED: 2012
-REFERENCE: http://csdb.dk/release/?id=110942
 
 Hermit/1RasterTracker
    AUTHOR: Mihály Horváth (Hermit)
@@ -588,6 +615,9 @@ Jon_Dunn&Paul_Hughes
   COMMENT: The music driver/player has been co-written by Jonathan Dunn and
            Paul Hughes. More info about the player:
            http://www.pauliehughes.com/page22/page22.html
+
+Jonas_Hulten
+   AUTHOR: Jonas Hultén
 
 KB/SDS
    AUTHOR: Tammo Hinrichs (kb) of Smash Designs (SDS)
@@ -710,18 +740,30 @@ Matt_Gray
    AUTHOR: Matt Gray
 
 (Andrew_Rodger)
-    AUTHOR: Andrew Rodger
-  RELEASED: 1990
-   COMMENT: A modified version of Matt Gray's player
+   AUTHOR: Andrew Rodger
+ RELEASED: 1990
+  COMMENT: A modified version of Matt Gray's player
 
 Maxx_Digi
    AUTHOR: Zana Bela (Maxx)
+
+Mega_Player
+     NAME: Mega Player
+   AUTHOR: Dirk Bialluch
+REFERENCE: http://wayback.archive.org/web/lightstorm3d.com/portfolio/html_en/mega_player.htm
 
 MegaVisionMusic64
      NAME: MegaVision Music 64
    AUTHOR: Stefan Konrath
  RELEASED: 1991 Markt & Technik
 REFERENCE: http://csdb.dk/release/?id=129795
+
+Michael_Delaney
+     NAME: C64 Music Editor V1.0
+   AUTHOR: Michael Delaney
+ RELEASED: 1992 Michael Delaney
+  COMMENT: Editor written in 1992, music driver written in 1990
+REFERENCE: http://csdb.dk/release/?id=138249
 
 Michael_Winterberg
      NAME: Speedi System
@@ -845,6 +887,10 @@ REFERENCE: http://csdb.dk/release/?id=90711
 Music_Works
  RELEASED: 1991 Simulmondo
 REFERENCE: http://csdb.dk/release/?id=92082
+
+Musicodec
+     NAME: Musicodec
+   AUTHOR: Fabian Rosenschein
 
 MusicShop
  RELEASED: 1984 Brøderbund Software
@@ -1036,9 +1082,9 @@ Sidplayer64
            a COMPUTE! Books publication.
 REFERENCE: http://csdb.dk/release/?id=33248
 
-SidSynth64
-     NAME: SID Synth 64
-   AUTHOR: Dave Davies
+SidTracker64
+   AUTHOR: Daniel Larsson (Pernod)
+REFERENCE: http://www.sidtracker64.com
 
 SidWinder
    AUTHOR: Balázs Takács (Taki)
@@ -1251,6 +1297,12 @@ SynC
            "64'er Music Editor".
 REFERENCE: http://csdb.dk/release/?id=7850
 
+Synthesizer64
+     NAME: Synthesizer 64
+   AUTHOR: Werner Kracht
+  COMMENT: Digital Marketing PD disk dm068a.d64
+REFERENCE: http://csdb.dk/release/?id=86037
+
 Synth_Executor
      NAME: Synth Executor
    AUTHOR: Georg Feil (Georgie)
@@ -1310,7 +1362,7 @@ TrackPlayer
 REFERENCE: http://csdb.dk/release/?id=90076
 
 Trasher_Digi
-    AUTHOR: Preben Vindholmen (Trasher)
+   AUTHOR: Preben Vindholmen (Trasher)
 
 Trident/Active
    AUTHOR: Adam Dunkels (Trident)
@@ -1362,7 +1414,7 @@ Walt/Bonzai
  RELEASED: 1990 Bonzai
 REFERENCE: http://csdb.dk/release/?id=12580
 
-Walt_Digi_2
+Walt_Digi
    AUTHOR: Anders Fogh (Walt)
 
 Warp8_Digi
@@ -1403,3 +1455,9 @@ Zardax
 
 Zyborg
    AUTHOR: Mikkel Jakobsen (Zyborg)
+
+?Programming_Partners
+     NAME: The Programming Partnership
+  COMMENT: found in /GAMES/A-F/Bubble_Ghost.sid and
+           /MUSICIANS/C/Callet_Charles/Sidewalk.sid
+           Both games share the phrase "Coding by The Programming Partnership".

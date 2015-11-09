@@ -14,8 +14,11 @@ REFERENCE: http://csdb.dk/release/?id=10741
            More info about this technique:
            http://csdb.dk/forums/?roomid=14&topicid=24626
 
-4bitDigi/Mahoney
+8bitDigi/Mahoney
    AUTHOR: Pex Tufvesson (Mahoney)
+  COMMENT: The player uses a technique to play 8-bit samples at 44.1kHz via the
+           volume register of the SID. More info about this technique:
+           http://www.livet.se/mahoney/c64-files/Musik_RunStop_Technical_Details_by_Pex_Mahoney_Tufvesson_v2.pdf
 
 5_Dimension
      NAME: 5 Dimension Composer
@@ -95,6 +98,12 @@ Audio_Effect_Editor
  RELEASED: 1988
 REFERENCE: http://csdb.dk/release/?id=122169
 
+Background_MusicEditor
+     NAME: Background Music Editor
+   AUTHOR: Gary Davis
+ RELEASED: 1983
+REFERENCE: http://csdb.dk/release/?id=138743
+
 Ben_Daglish
    AUTHOR: Ben Daglish
   COMMENT: A few editors are written for this player, see reference
@@ -107,10 +116,20 @@ C64_Speech_System
  RELEASED: 1986 64'er/Markt & Technik
 REFERENCE: http://csdb.dk/release/?id=129965
 
+CCC_Editor
+     NAME: Commodore Cracking Crew Music Editor
+   AUTHOR: Pex Tufvesson
+ RELEASED: 1986-87 Commodore Cracking Crew
+
 Censored_Editor
    AUTHOR: Kenneth Mutka (Slaygon)
  RELEASED: 1990 Censor Design
 REFERENCE: http://csdb.dk/release/?id=91724
+
+CharlesCallet/MusicPro
+     NAME: Music Pro
+   AUTHOR: Charles Callet
+REFERENCE: http://cpcrulez.fr/applications_music-music-pro.htm?t=VA==
 
 CheeseCutter_2.x
    AUTHOR: Timo Taipalus (Abaddon)
@@ -388,7 +407,7 @@ Geir_Tjelta/MacroPlay
  RELEASED: 2009
 REFERENCE: http://csdb.dk/release/?id=76493
 
-Geir_Tjelta_digi_1
+Geir_Tjelta_Digi_1
      NAME: NMI Player v1.0
    AUTHOR: Geir Tjelta & Glenn Rune Gallefoss (GRG)
 
@@ -402,7 +421,7 @@ REFERENCE: http://csdb.dk/release/?id=94332
 Georg_Brandt/Rhythm_CS
      NAME: Rhythm Construction Set
    AUTHOR: Georg Brandt
- RELEASED: 1986
+ RELEASED: 1986 64'er/Markt & Technik
 REFERENCE: http://csdb.dk/release/?id=9000
 
 Ghost/SampleMon
@@ -609,13 +628,6 @@ REFERENCE: http://csdb.dk/release/?id=18767
    AUTHOR: Aleksi Eeben
 REFERENCE: http://csdb.dk/release/?id=18767
 
-Jon_Dunn&Paul_Hughes
-     NAME: Music Driver
-   AUTHOR: Jonathan Dunn & Paul Hughes
-  COMMENT: The music driver/player has been co-written by Jonathan Dunn and
-           Paul Hughes. More info about the player:
-           http://www.pauliehughes.com/page22/page22.html
-
 Jonas_Hulten
    AUTHOR: Jonas Hultén
 
@@ -724,7 +736,7 @@ REFERENCE: http://csdb.dk/release/?id=128699
 Mat/MDA
    AUTHOR: Matthias Hillebrand of Modern Arts
 
-Mat/MDA_digi
+Mat/MDA_Digi
    AUTHOR: Matthias Hillebrand of Modern Arts
 
 SoundBox/MDA
@@ -931,7 +943,7 @@ Oeyvind_Jergan
 Oeyvind_Jergan_2
    AUTHOR: Øyvind Jergan
 
-OmegaSupreme_digi
+OmegaSupreme_Digi
    AUTHOR: Olav Mørkrid (Omega Supreme)
 
 Ozzy_Oldschool_V1
@@ -942,6 +954,12 @@ Ozzy_Oldschool_V2
 
 Paul_Hughes
    AUTHOR: Paul Hughes
+
+MusDriver/Paul_Hughes
+     NAME: Music Driver
+   AUTHOR: Paul Hughes
+  COMMENT: More info about the player:
+           http://www.pauliehughes.com/page22/page22.html
 
 Paradroid/Lameplayer
    AUTHOR: Paradroid
@@ -1066,7 +1084,7 @@ Samar/Raver_V1.0
  RELEASED: 1998 Samar Productions
 REFERENCE: http://csdb.dk/release/?id=28685
 
-Sanyo_digi
+Sanyo_Digi
    AUTHOR: Stephane Martel (Sanyo)
 
 SidFactory/Laxity
@@ -1185,7 +1203,7 @@ SounDemon
 
 SoundMonitor
    AUTHOR: Chris Hülsbeck
- RELEASED: 1986 Markt & Technik
+ RELEASED: 1986 64'er/Markt & Technik
   COMMENT: Released as a type-in listing in the October 1986 issue of the
            German C-64 magazine 64'er.
 REFERENCE: http://csdb.dk/release/?id=59929
@@ -1270,7 +1288,7 @@ REFERENCE: http://csdb.dk/release/?id=19973
 
 SoundWriter_2.0
    AUTHOR: Thorsten Klose
- RELEASED: 1992
+ RELEASED: 1992 64'er/Markt & Technik
 REFERENCE: http://csdb.dk/release/?id=17422
 
 Sound-Tracker_64
@@ -1347,6 +1365,10 @@ TheTracker/Hitmen
  RELEASED: 1998 Hitmen
 REFERENCE: http://csdb.dk/release/?id=3385
 
+Thiel_Sound_System
+     NAME: David Dwyer Thiel Sound System (DDTSS)
+   AUTHOR: David Thiel
+
 Toaster_Digi
    AUTHOR: Tomasz Przybylski (Toaster)
 
@@ -1391,6 +1413,11 @@ REFERENCE: http://csdb.dk/release/?id=122333
 
 Vibrants/JO
    AUTHOR: Poul-Jesper Olsen (JO)
+
+Virtuoso
+   AUTHOR: Hein Holt
+ RELEASED: 2015 Vision
+REFERENCE: http://csdb.dk/release/?id=139247
 
 VoiceEater
    AUTHOR: Rolf Runar Bakke

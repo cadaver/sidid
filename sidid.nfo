@@ -215,6 +215,11 @@ DefleMask_v2
  RELEASED: 2013
 REFERENCE: http://csdb.dk/release/?id=118363
 
+DefleMask_v12
+   AUTHOR: Delek
+ RELEASED: 2016
+REFERENCE: http://www.deflemask.com/
+
 DefMon
    AUTHOR: Mats (Frantic of Hack'n'Trade)
  RELEASED: 2013
@@ -596,8 +601,16 @@ REFERENCE: http://csdb.dk/release/?id=122334
  RELEASED: 2007 Viruz
 REFERENCE: http://csdb.dk/release/?id=47985
 
+Jeff/Airwalk
+   AUTHOR: Søren Lund (Jeff)
+
 Jeff/BullSID
    AUTHOR: Søren Lund (Jeff)
+
+Jeff/FLT
+   AUTHOR: Søren Lund (Jeff)
+  COMMENT: Custom player made for One Million Lightyears from Earth/FairLight
+REFERENCE: http://csdb.dk/release/?id=17292
 
 Jeff/XLarge
    AUTHOR: Søren Lund (Jeff)
@@ -864,6 +877,10 @@ REFERENCE: http://csdb.dk/release/?id=77308
   COMMENT: Editor based on the Music Assembler player
 REFERENCE: http://csdb.dk/release/?id=82618
 
+Music_Producer_II
+     NAME: Music Producer II
+   AUTHOR: J.N.W. Cheesman
+
 MusicComposer/Flash_Inc
      NAME: Music-Composer
    AUTHOR: Fredrik Karlsson (Zodiac) & Anders Elmén (Moon)
@@ -922,6 +939,9 @@ NordicBeat_Editor
    AUTHOR: Daniel Hansson (Matrix)
  RELEASED: 1991 Nordic Beat
 REFERENCE: http://csdb.dk/release/?id=33642
+
+Nutt67_Digi
+   AUTHOR: Ben Hayes (Nutt'67)
 
 Odie/Cosine
    AUTHOR: Sean Connolly (Odie)
@@ -1399,9 +1419,6 @@ REFERENCE: http://csdb.dk/release/?id=39950
 
 Ultimate
    AUTHOR: Dave Thomas <?>
-
-Uzzy/Entropy
-   AUTHOR: Simon Collis (Uzzy)
 
 Van_Styer_Digi
    AUTHOR: Piotr Przewozny (Van Styer)

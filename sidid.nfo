@@ -119,7 +119,8 @@ REFERENCE: http://csdb.dk/release/?id=129965
 CCC_Editor
      NAME: Commodore Cracking Crew Music Editor
    AUTHOR: Pex Tufvesson
- RELEASED: 1986-87 Commodore Cracking Crew
+ RELEASED: 1987 Commodore Cracking Crew
+REFERENCE: http://csdb.dk/release/?id=149128
 
 Censored_Editor
    AUTHOR: Kenneth Mutka (Slaygon)
@@ -385,14 +386,14 @@ Geir_Tjelta/SIDSys18.4
    AUTHOR: Geir Tjelta
  RELEASED: 1990
   COMMENT: Uses player version 18.4
-REFERENCE: http://csdb.dk/release/?id=108477
+REFERENCE: http://csdb.dk/release/?id=33644
 
 Geir_Tjelta/SIDSys18.6
      NAME: Sid Systems V4.1
    AUTHOR: Geir Tjelta
  RELEASED: 1990
   COMMENT: Uses player version 18.6
-REFERENCE: http://csdb.dk/release/?id=108477
+REFERENCE: http://csdb.dk/release/?id=33644
 
 Geir_Tjelta/SIDDuzz'It
      NAME: SID Duzz'It (SDI)
@@ -469,10 +470,13 @@ REFERENCE: http://csdb.dk/release/?id=18308
 GRG
    AUTHOR: Glenn Rune Gallefoss (GRG)
 
-GRG_tiny
+GRG_tiny1
    AUTHOR: Glenn Rune Gallefoss (GRG)
 
 GRG_tiny2
+   AUTHOR: Glenn Rune Gallefoss (GRG)
+
+GRG_tiny3
    AUTHOR: Glenn Rune Gallefoss (GRG)
 
 Griff/Chromance
@@ -828,6 +832,9 @@ Modulator
  RELEASED: 1985
 REFERENCE: http://csdb.dk/release/?id=129802
 
+Bjerregaard
+   AUTHOR: Johannes Bjerregaard
+
 MoN/Bjerregaard
    AUTHOR: Johannes Bjerregaard
 
@@ -909,6 +916,12 @@ Music_Maker_128
  RELEASED: 1985 Music Sales Ltd
 REFERENCE: http://csdb.dk/release/?id=119395
 
+Music_Processor
+     NAME: The Music Processor
+   AUTHOR: M. Peter Engelbrite
+ RELEASED: 1984 Sight & Sound
+REFERENCE: http://csdb.dk/release/?id=150058
+
 Music_Studio/Lieblich
  RELEASED: 1985 Activision
 REFERENCE: http://csdb.dk/release/?id=90711
@@ -935,6 +948,10 @@ NinjaTracker_V2.x
  RELEASED: 2006 Covert Bitops
 REFERENCE: http://csdb.dk/release/?id=39374
 
+Noise-Mon_V2
+   AUTHOR: Piotr Pisula
+ RELEASED: 1992 Piotr Pisula
+
 NordicBeat_Editor
    AUTHOR: Daniel Hansson (Matrix)
  RELEASED: 1991 Nordic Beat
@@ -949,7 +966,7 @@ Odie/Cosine
 Odie/Pulse
    AUTHOR: Sean Connolly (Odie)
 
-Odie_Tiny
+Odie_tiny
    AUTHOR: Sean Connolly (Odie)
 
 OdinTracker
@@ -1329,7 +1346,7 @@ Magic_Man/Crazy
    AUTHOR: Stephan Schloepke
 
 SynC
-     NAME: SYNdrom Compoer
+     NAME: SYNdrom Composer
    AUTHOR: Matthias Hartung (The Syndrom)
   COMMENT: The first releases of this editor were released under the name
            "64'er Music Editor".

@@ -48,7 +48,10 @@ Arne/AFL
    AUTHOR: Arne Puszelski (Arne)
 
 Artlace
+     NAME: Artlace Editor (ARL-Editor)
    AUTHOR: Artúr Bujdosó (Artlace)
+ RELEASED: 1993 Rebels
+REFERENCE: http://csdb.dk/release/?id=152723
 
 Artline_Designs
    AUTHOR: Antti Kangas (AK)
@@ -109,6 +112,27 @@ Ben_Daglish
   COMMENT: A few editors are written for this player, see reference
 REFERENCE: http://csdb.dk/release/?id=97497
 
+(FCS_V1.0)
+     NAME: We-Music Editor V1.0
+   AUTHOR: Juha Granberg
+ RELEASED: 1987 Finland Cracking Service/Finnish Gold
+REFERENCE: http://csdb.dk/release/?id=97497
+  COMMENT: Derived from Ben Daglish Player
+
+(FCS_V1.1)
+     NAME: We-Music Editor V1.1
+   AUTHOR: Juha Granberg
+ RELEASED: 1988 Finland Cracking Service/Finnish Gold
+REFERENCE: http://csdb.dk/release/?id=97498
+  COMMENT: Derived from Ben Daglish Player
+
+
+Blackbird/LFT
+     NAME: Blackbird 1.0
+   AUTHOR: Linus Åkesson (lft)
+ RELEASED: 2017 lft
+REFERENCE: http://csdb.dk/release/?id=153555
+
 C64_Speech_System
      NAME: C64 Speech System
    AUTHOR: Kristian Köhntopp
@@ -141,6 +165,10 @@ REFERENCE: http://csdb.dk/release/?id=106959
    AUTHOR: Timo Taipalus (Abaddon)
  RELEASED: 2013
 REFERENCE: http://csdb.dk/release/?id=118865
+
+Chris_Grigg
+     NAME: Sound Programming Language (SPL)
+   AUTHOR: Chris Grigg
 
 Chris_Murray
    AUTHOR: Chris Murray
@@ -200,12 +228,6 @@ REFERENCE: http://csdb.dk/release/?id=6663
 
 Cycleburner_Digi
    AUTHOR: Even Scharning (Cycleburner)
-
-Dane
-     NAME: JCH-editor 3.1 + NP22-25
-   AUTHOR: Stellan Andersson (Dane)
- RELEASED: 2011
-REFERENCE: http://csdb.dk/release/?id=100406
 
 DefleMask_v1
    AUTHOR: Delek
@@ -459,8 +481,8 @@ GMC_V2.0/Superiors
 
 GoatTracker_V1.x
    AUTHOR: Lasse Öörni (Cadaver)
- RELEASED: 2002 Covert Bitops
-REFERENCE: http://csdb.dk/release/?id=6072
+ RELEASED: 2001 Covert Bitops
+REFERENCE: http://csdb.dk/release/?id=152697
 
 GoatTracker_V2.x
    AUTHOR: Lasse Öörni (Cadaver)
@@ -582,6 +604,12 @@ JCH_OldPlayer
 
 JCH_Protracker
    AUTHOR: Jens-Christian Huus (JCH)
+
+(Dane_NewPlayer)
+     NAME: JCH-editor 3.1 + NP22-25
+   AUTHOR: Stellan Andersson (Dane)
+ RELEASED: 2011
+REFERENCE: http://csdb.dk/release/?id=100406
 
 JITT_1.x
    AUTHOR: Stefano Tognon (Ice00)
@@ -938,6 +966,11 @@ MusicShop
  RELEASED: 1984 Brøderbund Software
 REFERENCE: http://csdb.dk/release/?id=82453
 
+Muso
+   AUTHOR: Tony Reihana
+ RELEASED: 1985
+REFERENCE: http://csdb.dk/release/?id=156826
+
 NinjaTracker_V1.x
    AUTHOR: Lasse Öörni (Cadaver)
  RELEASED: 2002 Covert Bitops
@@ -971,8 +1004,8 @@ Odie_tiny
 
 OdinTracker
    AUTHOR: Zoltán Konyha (Zed)
- RELEASED: 2001
-REFERENCE: http://csdb.dk/release/?id=2628
+ RELEASED: 2000
+REFERENCE: http://csdb.dk/release/?id=12577
 
 Oeyvind_Jergan
    AUTHOR: Øyvind Jergan
@@ -1026,8 +1059,13 @@ REFERENCE: http://csdb.dk/release/?id=122335
 
 PollyTracker
    AUTHOR: Aleksi Eeben
- RELEASED: 1995
+ RELEASED: 2005
 REFERENCE: http://csdb.dk/release/?id=18605
+
+Polyanna
+   AUTHOR: Aleksi Eeben
+ RELEASED: 2017
+REFERENCE: http://csdb.dk/release/?id=153091
 
 Power_Music
    AUTHOR: Michael Kukat (Raster Buster)
@@ -1091,7 +1129,7 @@ Robert_Westgate_v2
 
 RoMuzak_V6.x
    AUTHOR: Oliver Blasnik (ROM)
- RELEASED: 1989
+ RELEASED: 1989 Digital Marketing
 REFERENCE: http://csdb.dk/release/?id=17814
 
 RoMuzak_V7.x
@@ -1123,6 +1161,11 @@ REFERENCE: http://csdb.dk/release/?id=28685
 
 Sanyo_Digi
    AUTHOR: Stephane Martel (Sanyo)
+
+Sequencer
+   AUTHOR: Thomas Krätzig
+ RELEASED: 1985
+REFERENCE: http://csdb.dk/release/?id=129802
 
 SidFactory/Laxity
    AUTHOR: Thomas Egeskov Petersen (Laxity)
@@ -1287,7 +1330,7 @@ REFERENCE: http://csdb.dk/release/?id=122393
 (DigiMonitor)
      NAME: DigiMonitor
    AUTHOR: Pex Tufvesson (Mahoney)
-  COMMENT: also known as JamMaster III by Banana
+  COMMENT: Uses the same digi routine as JamMaster II and JamMaster III by Banana
  RELEASED: 1987 Defiers
 REFERENCE: http://csdb.dk/release/?id=34224
 
@@ -1426,6 +1469,11 @@ Trasher_Digi
 Trident/Active
    AUTHOR: Adam Dunkels (Trident)
 
+Twice_Effect_Editor
+     NAME: Twice Effect Music Editor
+   AUTHOR: Mario Kriwanek (MOK)
+ RELEASED: 1991 Twice Effect
+
 Twynn
    AUTHOR: Ruud den Bekker (Twynn)
 
@@ -1522,3 +1570,4 @@ Zyborg
   COMMENT: found in /GAMES/A-F/Bubble_Ghost.sid and
            /MUSICIANS/C/Callet_Charles/Sidewalk.sid
            Both games share the phrase "Coding by The Programming Partnership".
+

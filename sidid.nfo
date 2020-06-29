@@ -1,6 +1,6 @@
 20CC
    AUTHOR: Falco Paul
-REFERENCE: http://csdb.dk/release/?id=10741
+REFERENCE: https://csdb.dk/release/?id=10741
 
 4bitDigi/THCM
    AUTHOR: Uwe Anfang (The Human Code Machine)
@@ -12,19 +12,22 @@ REFERENCE: http://csdb.dk/release/?id=10741
            test bit and uses the frequency register to write the 8-bit sample
            data to the SID chip.
            More info about this technique:
-           http://csdb.dk/forums/?roomid=14&topicid=24626
+           https://csdb.dk/forums/?roomid=14&topicid=24626
 
 8bitDigi/Mahoney
    AUTHOR: Pex Tufvesson (Mahoney)
   COMMENT: The player uses a technique to play 8-bit samples at 44.1kHz via the
            volume register of the SID. More info about this technique:
-           http://www.livet.se/mahoney/c64-files/Musik_RunStop_Technical_Details_by_Pex_Mahoney_Tufvesson_v2.pdf
+           https://www.livet.se/mahoney/c64-files/Musik_RunStop_Technical_Details_by_Pex_Mahoney_Tufvesson_v2.pdf
 
 5_Dimension
      NAME: 5 Dimension Composer
    AUTHOR: Pleite Geier
  RELEASED: 1990 Pleite Geier
-REFERENCE: http://csdb.dk/release/?id=122330
+REFERENCE: https://csdb.dk/release/?id=122330
+
+Abaddon_Digi
+   AUTHOR: Timo Taipalus (Abaddon)
 
 Acid_Player
    AUTHOR: Stuart McDowell (Acid)
@@ -39,10 +42,32 @@ AMP
      NAME: Advanced Music Programmer
    AUTHOR: Andrew Miller (Burton)
  RELEASED: 1989 Hitech Studio Designs
-REFERENCE: http://csdb.dk/release/?id=35519
+REFERENCE: https://csdb.dk/release/?id=35519
 
 Android
    AUTHOR: Andrew Craigie (Android)
+
+Antony_Crowther_V2
+     NAME: Music Master
+   AUTHOR: Antony Crowther
+ RELEASED: 1986 Your Commodore
+REFERENCE: https://csdb.dk/release/?id=14590
+
+Antony_Crowther_V3
+   AUTHOR: Antony Crowther
+  COMMENT: A few editors are written for this player, see subids
+
+(FCS_V1.0)
+     NAME: We-Music Editor V1.0
+   AUTHOR: Juha Granberg (Finland Cracking Service)
+ RELEASED: 1987 Finnish Gold
+REFERENCE: https://csdb.dk/release/?id=97497
+
+(FCS_V1.1)
+     NAME: We-Music Editor V1.1
+   AUTHOR: Juha Granberg (Finland Cracking Service)
+ RELEASED: 1988 Finnish Gold
+REFERENCE: https://csdb.dk/release/?id=97498
 
 Anvil
    AUTHOR: Petri Reiman (Anvil)
@@ -54,7 +79,7 @@ Artlace
      NAME: Artlace Editor (ARL-Editor)
    AUTHOR: Artúr Bujdosó (Artlace)
  RELEASED: 1993 Rebels
-REFERENCE: http://csdb.dk/release/?id=152723
+REFERENCE: https://csdb.dk/release/?id=152723
 
 Artline_Designs
    AUTHOR: Antti Kangas (AK)
@@ -65,25 +90,25 @@ Assassin_Sample_Mixer
      NAME: Sample Mixer
    AUTHOR: Assassin
  RELEASED: 1993
-REFERENCE: http://csdb.dk/release/?id=129555
+REFERENCE: https://csdb.dk/release/?id=129555
 
 Asterion_V1.x
    AUTHOR: Rafal Kazimierski (Asterion)
  RELEASED: 2004
-REFERENCE: http://csdb.dk/release/?id=11576
+REFERENCE: https://csdb.dk/release/?id=11576
 
 ATMDS_1.x
      NAME: Acid Track Music Development System (ATMDS)
    AUTHOR: Stefan Hübner (St0ff)
  RELEASED: 1997 Neoplasia
-REFERENCE: http://csdb.dk/release/?id=129844
+REFERENCE: https://csdb.dk/release/?id=129844
   COMMENT: Also known as Acid Track Creator
 
 ATMDS_3.x
      NAME: Acid Track Music Development System (ATMDS)
    AUTHOR: Stefan Hübner (St0ff)
  RELEASED: 2001 Neoplasia
-REFERENCE: http://csdb.dk/release/?id=7159
+REFERENCE: https://csdb.dk/release/?id=7159
   COMMENT: Also known as Acid Track Creator
 
 Audial_Arts
@@ -96,61 +121,42 @@ Audial_Revolution
      NAME: Audial Revolution Music Editor
    AUTHOR: Maikel van de Lisdonk (Yoga)
  RELEASED: 1989 Audial Revolution
-REFERENCE: http://csdb.dk/release/?id=71543
+REFERENCE: https://csdb.dk/release/?id=71543
 
 Audio_Effect_Editor
      NAME: Audio Effect Editor
    AUTHOR: Alexander Kirsch
- RELEASED: 1988
-REFERENCE: http://csdb.dk/release/?id=122169
+ RELEASED: 1989 Golden Disk 64/CP Verlag
+REFERENCE: https://csdb.dk/release/?id=122169
 
 Background_MusicEditor
      NAME: Background Music Editor
    AUTHOR: Gary Davis
  RELEASED: 1983
-REFERENCE: http://csdb.dk/release/?id=138743
+REFERENCE: https://csdb.dk/release/?id=138743
 
 Basically_Music
    AUTHOR: Greg Tarr
  RELEASED: 1988 Compute! Gazette
 
-Ben_Daglish
-   AUTHOR: Ben Daglish
-  COMMENT: A few editors are written for this player, see reference
-REFERENCE: http://csdb.dk/release/?id=97497
-
-(FCS_V1.0)
-     NAME: We-Music Editor V1.0
-   AUTHOR: Juha Granberg
- RELEASED: 1987 Finland Cracking Service/Finnish Gold
-REFERENCE: http://csdb.dk/release/?id=97497
-  COMMENT: Derived from Ben Daglish Player
-
-(FCS_V1.1)
-     NAME: We-Music Editor V1.1
-   AUTHOR: Juha Granberg
- RELEASED: 1988 Finland Cracking Service/Finnish Gold
-REFERENCE: http://csdb.dk/release/?id=97498
-  COMMENT: Derived from Ben Daglish Player
-
 Blackbird/LFT
      NAME: Blackbird 1.0
    AUTHOR: Linus Åkesson (lft)
  RELEASED: 2017 lft
-REFERENCE: http://csdb.dk/release/?id=153555
+REFERENCE: https://csdb.dk/release/?id=153555
 
 C64_Speech_System
      NAME: C64 Speech System
    AUTHOR: Kristian Köhntopp
  RELEASED: 1986 64'er/Markt & Technik
-REFERENCE: http://csdb.dk/release/?id=129965
+REFERENCE: https://csdb.dk/release/?id=129965
   COMMENT: Also known as "Speech Basic"
 
 CCC_Editor
      NAME: Commodore Cracking Crew Music Editor
    AUTHOR: Pex Tufvesson
  RELEASED: 1987 Commodore Cracking Crew
-REFERENCE: http://csdb.dk/release/?id=149128
+REFERENCE: https://csdb.dk/release/?id=149128
 
 Censor_8bit_Digi_1
    AUTHOR: Fredrik Ternell (Swallow)
@@ -161,22 +167,22 @@ Censor_8bit_Digi_2
 Censored_Editor
    AUTHOR: Kenneth Mutka (Slaygon)
  RELEASED: 1990 Censor Design
-REFERENCE: http://csdb.dk/release/?id=91724
+REFERENCE: https://csdb.dk/release/?id=91724
 
 CharlesCallet/MusicPro
      NAME: Music Pro
    AUTHOR: Charles Callet
-REFERENCE: http://cpcrulez.fr/applications_music-music-pro.htm?t=VA==
+REFERENCE: https://cpcrulez.fr/applications_music-music-pro.htm?t=VA==
 
 CheeseCutter_2.x
    AUTHOR: Timo Taipalus (Abaddon)
  RELEASED: 2011
-REFERENCE: http://csdb.dk/release/?id=106959
+REFERENCE: https://csdb.dk/release/?id=106959
 
 (CheeseCutter_2.5+)
    AUTHOR: Timo Taipalus (Abaddon)
  RELEASED: 2013
-REFERENCE: http://csdb.dk/release/?id=118865
+REFERENCE: https://csdb.dk/release/?id=118865
 
 Chris_Grigg
      NAME: Sound Programming Language (SPL)
@@ -186,31 +192,31 @@ Chris_Murray
    AUTHOR: Chris Murray
   COMMENT: The player is used in several games, all seems derived from
            Chris Murray's Henrys_House.sid
-           SID Sequencer (http://csdb.dk/release/?id=122332) and
-           Aleatory Composer (http://csdb.dk/release/?id=122331) are
+           SID Sequencer (https://csdb.dk/release/?id=122332) and
+           Aleatory Composer (https://csdb.dk/release/?id=122331) are
            music editors that are based on this player.
 
 Chubrocker_V3.x
    AUTHOR: László Benke (Dec)
  RELEASED: 1995 Cadgers
-REFERENCE: http://csdb.dk/release/?id=114185
+REFERENCE: https://csdb.dk/release/?id=114185
 
 Comer/Digi
    AUTHOR: Pawel Kulikowski (Comer)
 
 Comer/NMI_Sample_5
    AUTHOR: Pawel Kulikowski (Comer)
-REFERENCE: http://csdb.dk/release/?id=101599
+REFERENCE: https://csdb.dk/release/?id=101599
 
 Comer/Sample_Studio
    AUTHOR: Pawel Kulikowski (Comer)
-REFERENCE: http://csdb.dk/release/?id=101704
+REFERENCE: https://csdb.dk/release/?id=101704
 
 CRD_Tracker
      NAME: CRD-Tracker64
    AUTHOR: Owen Crowley (CRD)
  RELEASED: 2007 Owen Crowley
-REFERENCE: http://csdb.dk/release/?id=48461
+REFERENCE: https://csdb.dk/release/?id=48461
 
 Conrad/Samar
    AUTHOR: Owen Crowley (Conrad)
@@ -226,16 +232,16 @@ Cyberlogic_SoundStudio
      NAME: Cyberlogic Sound Studio
    AUTHOR: Oliver Klee & Sascha Nagie
  RELEASED: 1991
-REFERENCE: http://csdb.dk/release/?id=97286
+REFERENCE: https://csdb.dk/release/?id=170632
 
 CyberTracker
    AUTHOR: Bjarke Nørgaard Laustsen (CyberBrain)
  RELEASED: 2001
-REFERENCE: http://csdb.dk/release/?id=2601
+REFERENCE: https://csdb.dk/release/?id=2601
 
 CyberTracker_exe
  RELEASED: 2001
-REFERENCE: http://csdb.dk/release/?id=6663
+REFERENCE: https://csdb.dk/release/?id=6663
   COMMENT: Created with the CyberTracker Executable Maker
 
 Cycleburner_Digi
@@ -244,65 +250,68 @@ Cycleburner_Digi
 Dane
    AUTHOR: Stellan Andersson (Dane)
 
-DefleMask_v1
-   AUTHOR: Delek
+Daw_Digi
+   AUTHOR: David Fahlander (Daw)
+
+DefleMask_V1
+   AUTHOR: Leonardo Demartino (Delek)
  RELEASED: 2013
 
-DefleMask_v2
-   AUTHOR: Delek
+DefleMask_V2
+   AUTHOR: Leonardo Demartino (Delek)
  RELEASED: 2013
-REFERENCE: http://csdb.dk/release/?id=118363
+REFERENCE: https://csdb.dk/release/?id=118363
 
-DefleMask_v12
-   AUTHOR: Delek
+DefleMask_V12
+   AUTHOR: Leonardo Demartino (Delek)
  RELEASED: 2016
 REFERENCE: http://www.deflemask.com/
 
 DefMon
    AUTHOR: Mats (Frantic of Hack'n'Trade)
  RELEASED: 2013
-REFERENCE: http://csdb.dk/release/?id=120965
+REFERENCE: https://csdb.dk/release/?id=120965
   COMMENT: Made in 2008, released in 2013
 
 Digi-Organizer
      NAME: Digi-Organizer
    AUTHOR: Pawel Soltysinski (Polonus) & Marco Wienkoop (Lubber)
  RELEASED: 1991 Padua
-REFERENCE: http://csdb.dk/release/?id=871
+REFERENCE: https://csdb.dk/release/?id=871
 
 Digitalizer_V3.0
    AUTHOR: Olav Mørkrid
  RELEASED: 1992
-REFERENCE: http://csdb.dk/release/?id=33649
+REFERENCE: https://csdb.dk/release/?id=33649
 
 Digitalizer_V2.x
    AUTHOR: Olav Mørkrid
  RELEASED: 1989
-REFERENCE: http://csdb.dk/release/?id=33646
+REFERENCE: https://csdb.dk/release/?id=33646
 
 Digimixer/FunFactory
      NAME: Digimixer
    AUTHOR: Gyula Szalai (Jules)
  RELEASED: 199? Fun Factory
-REFERENCE: http://csdb.dk/release/?id=129559
+REFERENCE: https://csdb.dk/release/?id=129559
 
 DMC
      NAME: Demo Music Creator System (DMC)
    AUTHOR: Balazs Farkas (Brian)
  RELEASED: 1991
-REFERENCE: http://csdb.dk/release/?id=2598
+REFERENCE: https://csdb.dk/release/?id=2598
 
 (DMC_V4.x)
      NAME: Demo Music Creator System (DMC)
    AUTHOR: Balazs Farkas (Brian)
  RELEASED: 1991
-REFERENCE: http://csdb.dk/release/?id=2596
+REFERENCE: https://csdb.dk/release/?id=2596
 
 (DMC_V5.x)
      NAME: Demo Music Creator System (DMC)
    AUTHOR: Balazs Farkas (Brian)
  RELEASED: 1993
-REFERENCE: http://csdb.dk/release/?id=2594
+REFERENCE: https://csdb.dk/release/?id=2594
 
 DMC_V6.x
      NAME: Demo Music Creator System (DMC)
@@ -312,13 +321,13 @@ DrumEditor
      NAME: Drumeditor V3.0
    AUTHOR: Frank Hugenroth & André Hugenroth
  RELEASED: 1990 64'er-Disc/Markt & Technik
-REFERENCE: http://csdb.dk/release/?id=136179
+REFERENCE: https://csdb.dk/release/?id=136179
 
 DrumStudio
      NAME: Drum Studio
    AUTHOR: Mark Wilson
  RELEASED: 1990 Players Software
-REFERENCE: http://csdb.dk/release/?id=59864
+REFERENCE: https://csdb.dk/release/?id=59864
 
 Drumtex
    AUTHOR: Vidar Bang (Drumtex)
@@ -326,7 +335,7 @@ Drumtex
 Dutch-USA_Team/ProDrum
    AUTHOR: The Dutch USA-Team
  RELEASED: 1988
-REFERENCE: http://csdb.dk/release/?id=20672
+REFERENCE: https://csdb.dk/release/?id=20672
 
 Ed/Wrath
    AUTHOR: Eddie Svärd (Ed)
@@ -342,11 +351,11 @@ Ed_Bogas_V2
 
 Electro_Sound
  RELEASED: 1985 Orpheus
-REFERENCE: http://csdb.dk/release/?id=34178
+REFERENCE: https://csdb.dk/release/?id=27433
 
 Electronic_Speech_Sys
      NAME: Electronic Speech System
-  COMMENT: More info: http://en.wikipedia.org/wiki/ESS_Technology
+  COMMENT: More info: https://en.wikipedia.org/wiki/ESS_Technology
 
 Element114Studio_1.0
      NAME: Music Studio Plus
@@ -357,20 +366,20 @@ Element114Studio_1.2
      NAME: Music Studio Plus
    AUTHOR: Martin Piper & Alan Peters
  RELEASED: 2010 Element 114 Software
-REFERENCE: http://csdb.dk/release/?id=90404
+REFERENCE: https://csdb.dk/release/?id=90404
 
 Element114Studio_2.0
      NAME: Music Studio 2
    AUTHOR: Martin Piper
  RELEASED: 2010 Element 114 Software
-REFERENCE: http://csdb.dk/release/?id=91544
+REFERENCE: https://csdb.dk/release/?id=91544
 
 EMS/Odie
    AUTHOR: Sean Connolly (Odie)
 
 (EMS_V7.03)
    AUTHOR: Sean Connolly (Odie)
-REFERENCE: http://csdb.dk/release/?id=4649
+REFERENCE: https://csdb.dk/release/?id=4649
 
 EMS_V9.x
    AUTHOR: Sean Connolly (Odie)
@@ -379,17 +388,20 @@ Entropy_Editor
      NAME: Entropy Music Editor
    AUTHOR: Simon Collis (Uzzy)
  RELEASED: 1993 Entropy
-REFERENCE: http://csdb.dk/release/?id=100032
+REFERENCE: https://csdb.dk/release/?id=100032
+
+Eweguo
+   AUTHOR: Karl Hörnell
 
 Extra_Sound
    AUTHOR: Tobias Herre
-REFERENCE: http://csdb.dk/release/?id=111493
+REFERENCE: https://csdb.dk/release/?id=111493
 
 Faith_Sample_Mixer
      NAME: Sample Mixer
    AUTHOR: Slawomir Balon (BS)
  RELEASED: 1994 Faith Design
-REFERENCE: http://csdb.dk/release/?id=7296
+REFERENCE: https://csdb.dk/release/?id=7296
 
 FAME
    AUTHOR: Adam Bulka
@@ -413,45 +425,52 @@ Games_Creator
      NAME: The Games Creator
    AUTHOR: David Darling & Richard Darling
  RELEASED: 1984 Mirrorsoft Ltd. / Mastertronic
-REFERENCE: http://csdb.dk/release/?id=116924
+REFERENCE: https://csdb.dk/release/?id=116924
+
+Geir_Tjelta/Comptech-X
+     NAME: Comptech-X
+   AUTHOR: Geir Tjelta
+ RELEASED: 2019 <?>
+  COMMENT: First used in 2019 by Geir Tjelta and Markus Schneider, probably
+           private player for X-Ample members.
 
 Geir_Tjelta/SIDSys_1.0
      NAME: Sid Systems V1
    AUTHOR: Geir Tjelta
  RELEASED: 1990
-REFERENCE: http://csdb.dk/release/?id=108477
+REFERENCE: https://csdb.dk/release/?id=108477
 
 Geir_Tjelta/SIDSys18.4
      NAME: Sid Systems V4.1
    AUTHOR: Geir Tjelta
  RELEASED: 1990
-REFERENCE: http://csdb.dk/release/?id=33644
+REFERENCE: https://csdb.dk/release/?id=33644
   COMMENT: Uses player version 18.4
 
 Geir_Tjelta/SIDSys18.6
      NAME: Sid Systems V4.1
    AUTHOR: Geir Tjelta
  RELEASED: 1990
-REFERENCE: http://csdb.dk/release/?id=33644
+REFERENCE: https://csdb.dk/release/?id=33644
   COMMENT: Uses player version 18.6
 
 Geir_Tjelta/SIDDuzz'It
      NAME: SID Duzz'It (SDI)
    AUTHOR: Geir Tjelta & Glenn Rune Gallefoss (GRG)
  RELEASED: 1992
-REFERENCE: http://csdb.dk/release/?id=7175
+REFERENCE: https://csdb.dk/release/?id=7175
 
 (GT_Editor)
      NAME: GT's Musiceditor
    AUTHOR: Geir Tjelta
  RELEASED: 1992 Moz(Ic)Art
-REFERENCE: http://csdb.dk/release/?id=33645
+REFERENCE: https://csdb.dk/release/?id=33645
 
 Geir_Tjelta/MacroPlay
      NAME: Macro Player
    AUTHOR: Geir Tjelta
  RELEASED: 2009
-REFERENCE: http://csdb.dk/release/?id=76493
+REFERENCE: https://csdb.dk/release/?id=76493
 
 Geir_Tjelta_Digi_1
      NAME: NMI Player v1.0
@@ -460,21 +479,21 @@ Geir_Tjelta_Digi_1
 GeniusComposer
    AUTHOR: Tobias Erbsland (Dr. Zoom)
  RELEASED: 1994
-REFERENCE: http://csdb.dk/release/?id=94332
+REFERENCE: https://csdb.dk/release/?id=94332
   COMMENT: Also released as Atlantis Composer
-           (http://csdb.dk/release/?id=103727)
+           (https://csdb.dk/release/?id=103727)
 
 Georg_Brandt/Rhythm_CS
      NAME: Rhythm Construction Set
    AUTHOR: Georg Brandt
  RELEASED: 1986 64'er/Markt & Technik
-REFERENCE: http://csdb.dk/release/?id=9000
+REFERENCE: https://csdb.dk/release/?id=9000
 
 Ghost/SampleMon
      NAME: Sample Mon
    AUTHOR: Slawomir Skrzynski (Ghost)
  RELEASED: 1994 Biuro Informatyczno-Wydawnicze (BIW)
-REFERENCE: http://csdb.dk/release/?id=9876
+REFERENCE: https://csdb.dk/release/?id=9876
 
 Glover
    AUTHOR: Lukasz Baran (Glover)
@@ -482,7 +501,7 @@ Glover
 Glover_NewPlayer_V21
    AUTHOR: Lukasz Baran (Glover)
  RELEASED: 2000
-REFERENCE: http://csdb.dk/release/?id=101623
+REFERENCE: https://csdb.dk/release/?id=101623
 
 Golem
    AUTHOR: Paul H. (Golem)
@@ -491,7 +510,7 @@ GMC/Superiors
      NAME: Game Music Creator System
    AUTHOR: Balazs Farkas (Brian)
  RELEASED: 1990
-REFERENCE: http://csdb.dk/release/?id=7268
+REFERENCE: https://csdb.dk/release/?id=7268
 
 GMC_V2.0/Superiors
      NAME: Game Music Creator System
@@ -500,12 +519,12 @@ GMC_V2.0/Superiors
 GoatTracker_V1.x
    AUTHOR: Lasse Öörni (Cadaver)
  RELEASED: 2001 Covert Bitops
-REFERENCE: http://csdb.dk/release/?id=152697
+REFERENCE: https://csdb.dk/release/?id=152697
 
 GoatTracker_V2.x
    AUTHOR: Lasse Öörni (Cadaver)
  RELEASED: 2005 Covert Bitops
-REFERENCE: http://csdb.dk/release/?id=18308
+REFERENCE: https://csdb.dk/release/?id=18308
 
 GoatTracker_V2/Mini
    AUTHOR: Lasse Öörni (Cadaver)
@@ -523,13 +542,16 @@ GRG_tiny2
 GRG_tiny3
    AUTHOR: Glenn Rune Gallefoss (GRG)
 
+Gregor_Larson
+   AUTHOR: Gregor Larson
+
 Griff/Chromance
    AUTHOR: Péter Varga (Griff)
 
 (LightVoices)
    AUTHOR: Péter Varga (Griff)
  RELEASED: 1990 FBI Crew
-REFERENCE: http://csdb.dk/release/?id=72915
+REFERENCE: https://csdb.dk/release/?id=72915
 
 Groo/Psygon
    AUTHOR: Claus Leth Gregersen (Groo)
@@ -537,7 +559,7 @@ Groo/Psygon
 Groovy_Bits
    AUTHOR: Lars Patrik Wallström (Karl XII)
  RELEASED: 1989 Groovy Bits
-REFERENCE: http://csdb.dk/release/?id=121370
+REFERENCE: https://csdb.dk/release/?id=121370
 
 Hansford/Interceptor
    AUTHOR: Graham Hansford
@@ -549,13 +571,13 @@ Harald_Rosenfeldt
 
 HardTrack_Composer
    AUTHOR: Milosz Ignatowski (Longhair)
-REFERENCE: http://csdb.dk/release/?id=74928
+REFERENCE: https://csdb.dk/release/?id=74928
 
 Heathcliff/DigitalArts
      NAME: Audio Assembler (a.k.a. Focus in-house music editor)
    AUTHOR: Rene Lergner (Heathcliff)
  RELEASED: 1990 Digital Arts
-REFERENCE: http://csdb.dk/release/?id=112794
+REFERENCE: https://csdb.dk/release/?id=112794
 
 Hermit/SidWizard_V1.x
    AUTHOR: Mihály Horváth (Hermit)
@@ -563,32 +585,32 @@ Hermit/SidWizard_V1.x
 (SidWizard_V1.0)
    AUTHOR: Mihály Horváth (Hermit)
  RELEASED: 2012
-REFERENCE: http://csdb.dk/release/?id=110942
+REFERENCE: https://csdb.dk/release/?id=110942
 
 (SidWizard_V1.2)
    AUTHOR: Mihály Horváth (Hermit)
  RELEASED: 2012
-REFERENCE: http://csdb.dk/release/?id=112716
+REFERENCE: https://csdb.dk/release/?id=112716
 
 (SidWizard_V1.4)
    AUTHOR: Mihály Horváth (Hermit)
  RELEASED: 2013
-REFERENCE: http://csdb.dk/release/?id=115599
+REFERENCE: https://csdb.dk/release/?id=115599
 
 (SidWizard_V1.5)
    AUTHOR: Mihály Horváth (Hermit)
  RELEASED: 2013
-REFERENCE: http://csdb.dk/release/?id=126797
+REFERENCE: https://csdb.dk/release/?id=126797
 
 (Hermit/3SID)
    AUTHOR: Mihály Horváth (Hermit)
  RELEASED: 2008
-REFERENCE: http://csdb.dk/release/?id=66065
+REFERENCE: https://csdb.dk/release/?id=66065
 
 Hermit/1RasterTracker
    AUTHOR: Mihály Horváth (Hermit)
  RELEASED: 2013
-REFERENCE: http://csdb.dk/release/?id=117935
+REFERENCE: https://csdb.dk/release/?id=117935
 
 HCL/BoozeDesign
    AUTHOR: David Malmborg (HCL)
@@ -597,7 +619,7 @@ Holger_Gehrmann
      NAME: Soundcontrol
    AUTHOR: Holger Gehrmann
  RELEASED: 1984
-REFERENCE: http://csdb.dk/release/?id=30432
+REFERENCE: https://csdb.dk/release/?id=30432
   COMMENT: "Soundcontrol makes use of a sound programming language (SOPROL)
            where you could type in your songs like a basic program (with
            labels, sound commands and so on), and a compiler converted it to
@@ -626,12 +648,12 @@ Ariston
      NAME: Ariston Music Editor
    AUTHOR: Ian Crabtree, Philip Brabbin & Wally Beben
  RELEASED: 1988
-REFERENCE: http://csdb.dk/release/?id=119920
+REFERENCE: https://csdb.dk/release/?id=119920
   COMMENT: This is an improved version of the player/editor by Ian Crabtree.
 
 JCH_NewPlayer
    AUTHOR: Jens-Christian Huus (JCH)
-REFERENCE: http://csdb.dk/release/?id=14037
+REFERENCE: https://csdb.dk/release/?id=14037
 
 JCH_OldPlayer
    AUTHOR: Jens-Christian Huus (JCH)
@@ -643,29 +665,33 @@ JCH_Protracker
      NAME: JCH-editor 3.1 + NP22-25
    AUTHOR: Stellan Andersson (Dane)
  RELEASED: 2011
-REFERENCE: http://csdb.dk/release/?id=100406
+REFERENCE: https://csdb.dk/release/?id=100406
 
-JITT_1.x
+JITT64_1.x
    AUTHOR: Stefano Tognon (Ice00)
  RELEASED: 2008 Ice Team
-REFERENCE: http://csdb.dk/release/?id=74136
+REFERENCE: https://csdb.dk/release/?id=74136
+
+JammicroV0
+     NAME: Jammicro V0
+   AUTHOR: Kamil Wolnikowski (Jammer)
 
 Jason_Page/Jay
      NAME: Jays Music Routine
    AUTHOR: Jason Page (Jay)
  RELEASED: 1988
-REFERENCE: http://csdb.dk/release/?id=43956
+REFERENCE: https://csdb.dk/release/?id=43956
 
 Jeff
      NAME: Music Editor
    AUTHOR: Søren Lund (Jeff)
  RELEASED: 1996 Cyberzound Productions
-REFERENCE: http://csdb.dk/release/?id=122334
+REFERENCE: https://csdb.dk/release/?id=122334
 
 (X-SID)
    AUTHOR: Søren Lund (Jeff)
  RELEASED: 2007 Viruz
-REFERENCE: http://csdb.dk/release/?id=47985
+REFERENCE: https://csdb.dk/release/?id=47985
 
 Jeff/Airwalk
    AUTHOR: Søren Lund (Jeff)
@@ -675,7 +701,7 @@ Jeff/BullSID
 
 Jeff/FLT
    AUTHOR: Søren Lund (Jeff)
-REFERENCE: http://csdb.dk/release/?id=17292
+REFERENCE: https://csdb.dk/release/?id=17292
   COMMENT: Custom player made for One Million Lightyears from Earth/FairLight
 
 Jeff/XLarge
@@ -683,7 +709,7 @@ Jeff/XLarge
 
 JITT_1.x
    AUTHOR: Stefano Tognon (Ice00)
-REFERENCE: http://csdb.dk/release/?id=74136
+REFERENCE: https://csdb.dk/release/?id=74136
 
 Johannes_Goettker
    AUTHOR: Johannes Göttker
@@ -693,19 +719,19 @@ John_Player
 
 (John_Player_V1.0)
    AUTHOR: Aleksi Eeben
-REFERENCE: http://csdb.dk/release/?id=2630
+REFERENCE: https://csdb.dk/release/?id=2630
 
 (John_Player_V1.4)
    AUTHOR: Aleksi Eeben
-REFERENCE: http://csdb.dk/release/?id=2631
+REFERENCE: https://csdb.dk/release/?id=2631
 
 (John_Player_V1.6)
    AUTHOR: Aleksi Eeben
-REFERENCE: http://csdb.dk/release/?id=18767
+REFERENCE: https://csdb.dk/release/?id=18767
 
 (John_Player_V2.0b)
    AUTHOR: Aleksi Eeben
-REFERENCE: http://csdb.dk/release/?id=18767
+REFERENCE: https://csdb.dk/release/?id=18767
 
 Jonas_Hulten
    AUTHOR: Jonas Hultén
@@ -719,7 +745,7 @@ KB/TOM
 Kemeny_Dio
      NAME: Kemeny Dio Editor V1.0
    AUTHOR: Sentinel
-REFERENCE: http://csdb.dk/release/?id=156925
+REFERENCE: https://csdb.dk/release/?id=156925
 
 Kenneth_Arnold
    AUTHOR: Kenneth W. Arnold
@@ -730,12 +756,12 @@ Kosa_Protracker
 (Kosa_Protracker_V1)
    AUTHOR: Jakub Kosinski (Kosa)
  RELEASED: 1995 Tridam & Tonic
-REFERENCE: http://csdb.dk/release/?id=97901
+REFERENCE: https://csdb.dk/release/?id=97901
 
 Laxity_NewPlayer_V21
    AUTHOR: Thomas Egeskov Petersen (Laxity)
  RELEASED: 2006
-REFERENCE: http://csdb.dk/release/?id=26563
+REFERENCE: https://csdb.dk/release/?id=26563
 
 LFT
    AUTHOR: Linus Åkesson (LFT)
@@ -743,7 +769,7 @@ LFT
 Loadstar_SongSmith
      NAME: Songsmith
  RELEASED: Loadstar
-REFERENCE: http://csdb.dk/release/?id=122855
+REFERENCE: https://csdb.dk/release/?id=122855
 
 Longhair
    AUTHOR: Milosz Ignatowski (Longhair)
@@ -755,28 +781,28 @@ LordsOfSonics/MS
      NAME: Compotech
    AUTHOR: Markus Schneider & Helge Kozielek
  RELEASED: 1990 X-Ample Architectures
-REFERENCE: http://csdb.dk/release/?id=122614
+REFERENCE: https://csdb.dk/release/?id=122614
 
 (Parsec)
      NAME: The Parsec Music Editor
    AUTHOR: Markus Schneider (SMC), Nic & ADT
  RELEASED: 1989 Mnemonic Designs
-REFERENCE: http://csdb.dk/release/?id=10744
+REFERENCE: https://csdb.dk/release/?id=10744
 
 (XTracker_V4.1x)
      NAME: The Ultimate X-Tracker
    AUTHOR: Tufan Uysal (SoNiC)
  RELEASED: 1996 The Art Project Studios
-REFERENCE: http://csdb.dk/release/?id=82320
+REFERENCE: https://csdb.dk/release/?id=82320
 
 MacGyver/ESV
      NAME: Expanded SID Voice
    AUTHOR: Mac Gyver
  RELEASED: 1988 Digitize Design Group
-REFERENCE: http://csdb.dk/release/?id=129556
+REFERENCE: https://csdb.dk/release/?id=129556
 
 MacMusic
-REFERENCE: http://csdb.dk/release/?id=117250
+REFERENCE: https://csdb.dk/release/?id=117250
 
 Madhacker_Digi
    AUTHOR: David (Madhacker)
@@ -815,7 +841,7 @@ Master_Composer
      NAME: Master Composer
    AUTHOR: Paul Kleimeyer
  RELEASED: 1983 Access Software Inc.
-REFERENCE: http://csdb.dk/release/?id=128699
+REFERENCE: https://csdb.dk/release/?id=128699
 
 Mat/MDA
    AUTHOR: Matthias Hillebrand of Modern Arts
@@ -826,7 +852,7 @@ Mat/MDA_Digi
 SoundBox/MDA
    AUTHOR: Tim Kleinert
  RELEASED: 1991 Modern Arts
-REFERENCE: http://csdb.dk/release/?id=112576
+REFERENCE: https://csdb.dk/release/?id=112576
 
 Symphonica/MDA
      NAME: Symphonica Music System V1.0
@@ -846,19 +872,19 @@ Maxx_Digi
 Mega_Player
      NAME: Mega Player
    AUTHOR: Dirk Bialluch
-REFERENCE: http://wayback.archive.org/web/lightstorm3d.com/portfolio/html_en/mega_player.htm
+REFERENCE: https://wayback.archive.org/web/lightstorm3d.com/portfolio/html_en/mega_player.htm
 
 MegaVisionMusic64
      NAME: MegaVision Music 64 V1.0
    AUTHOR: Stefan Konrath
  RELEASED: 1992 64'er/Markt & Technik
-REFERENCE: http://csdb.dk/release/?id=129795
+REFERENCE: https://csdb.dk/release/?id=129795
 
 Michael_Delaney
      NAME: C64 Music Editor V1.0
    AUTHOR: Michael Delaney
  RELEASED: 1992 Michael Delaney
-REFERENCE: http://csdb.dk/release/?id=138249
+REFERENCE: https://csdb.dk/release/?id=138249
   COMMENT: Editor written in 1992, music driver written in 1990
 
 Michael_Winterberg
@@ -868,12 +894,12 @@ Michael_Winterberg
 MicroRhythm
    AUTHOR: Simon Pick
  RELEASED: 1986 Firebird
-REFERENCE: http://csdb.dk/release/?id=49637
+REFERENCE: https://csdb.dk/release/?id=49637
   COMMENT: MicroRhythm uses real sampled sounds and was essentially a drum-machine
 
 Microtracker
    AUTHOR: Matthias Hartung (The Syndrom)
-REFERENCE: http://codebase64.org/doku.php?id=base:microtracker_v1.0
+REFERENCE: https://codebase64.org/doku.php?id=base:microtracker_v1.0
 
 Mike/LSD
    AUTHOR: Michael Vandenberg (Mike)
@@ -883,7 +909,7 @@ MiniMusic
      NAME: Mini Music Editor
    AUTHOR: Balazs Farkas (Brian)
  RELEASED: 1990 Tomcat
-REFERENCE: http://csdb.dk/release/?id=55790
+REFERENCE: https://csdb.dk/release/?id=55790
 
 Mixer
    AUTHOR: Jouni Ikonen (Mixer)
@@ -892,13 +918,13 @@ Mjoosic_Mejker
      NAME: Mjoosic Mejker
    AUTHOR: Fredrik Ademar (Phred)
  RELEASED: 1988 Crackers & Programmers Unlimited
-REFERENCE: http://csdb.dk/release/?id=43954
+REFERENCE: https://csdb.dk/release/?id=43954
 
 Modulator
      NAME: Modulator
    AUTHOR: Thomas Krätzig
  RELEASED: 1985 64'er/Markt & Technik
-REFERENCE: http://csdb.dk/release/?id=129802
+REFERENCE: https://csdb.dk/release/?id=129802
 
 Bjerregaard
    AUTHOR: Johannes Bjerregaard
@@ -909,21 +935,21 @@ MoN/Bjerregaard
 (Audiomaster_V1)
    AUTHOR: Ruben Spaans (Scroll)
  RELEASED: 1989 Megastyle
-REFERENCE: http://csdb.dk/release/?id=7071
+REFERENCE: https://csdb.dk/release/?id=7071
   COMMENT: Editor that is based on the player of
            /MUSICIANS/B/Bjerregaard_Johannes/Stormlord.sid
 
 Audiomaster_V2
    AUTHOR: Ruben Spaans (Scroll)
  RELEASED: 1989 Megastyle
-REFERENCE: http://csdb.dk/release/?id=7072
+REFERENCE: https://csdb.dk/release/?id=7072
 
 MoN/Deenen
    AUTHOR: Charles Deenen
 
 MoN/FutureComposer
    AUTHOR: Charles Deenen made the player & Juha Granberg (FCS) made the editor
-REFERENCE: http://csdb.dk/release/?id=10604
+REFERENCE: https://csdb.dk/release/?id=10604
   COMMENT: Editor made for the player of /MUSICIANS/T/Tel_Jeroen/Noisy_Pillars.sid
 
 Montecchio/Coolsound
@@ -936,20 +962,20 @@ MrWarp_Digi
 Music_Assembler
    AUTHOR: Marco Swagerman (MC) & Oscar Giesen (OPM)
  RELEASED: 1989 The Dutch USA-Team
-REFERENCE: http://csdb.dk/release/?id=94388
+REFERENCE: https://csdb.dk/release/?id=94388
 
 (VoiceTracker)
      NAME: Voicetracker Composer
    AUTHOR: Pawel Soltysinski (Polonus)
  RELEASED: 1991 Science 451
-REFERENCE: http://csdb.dk/release/?id=77308
+REFERENCE: https://csdb.dk/release/?id=77308
   COMMENT: Editor based on the Music Assembler player
 
 (Music_Mixer)
      NAME: Music Mixer
    AUTHOR: Pawel Soltysinski (Polonus)
  RELEASED: 1991 Padua
-REFERENCE: http://csdb.dk/release/?id=82618
+REFERENCE: https://csdb.dk/release/?id=82618
   COMMENT: Editor based on the Music Assembler player
 
 Music_Producer_II
@@ -966,37 +992,39 @@ MusicComposer/Flash_Inc
      NAME: Music-Composer V3.0
    AUTHOR: Fredrik Karlsson (Zodiac) & Anders Elmén (Moon)
  RELEASED: 1992 Flash Inc.
-REFERENCE: http://csdb.dk/release/?id=10755
+REFERENCE: https://csdb.dk/release/?id=10755
   COMMENT: All programming by Zodiac with assistance by Moon
 
 Music_Construction_Set
+     NAME: Will Harvey's Music Construction Set
    AUTHOR: Will Harvey
  RELEASED: 1984 Electronic Arts
-REFERENCE: http://csdb.dk/release/?id=21492
-  COMMENT: Originally developed for the Apple II and ported to other systems like the C64
+REFERENCE: https://csdb.dk/release/?id=185248
+  COMMENT: Originally developed for the Apple II and ported to other systems
+           like the C64
 
 Music_Magic
    AUTHOR: Mark Riley & Jon Rami
  RELEASED: 1984 Mark Riley & Jon Rami
-REFERENCE: http://csdb.dk/release/?id=129644
+REFERENCE: https://csdb.dk/release/?id=129644
 
 Music_Maker_128
  RELEASED: 1985 Music Sales Ltd
-REFERENCE: http://csdb.dk/release/?id=119395
+REFERENCE: https://csdb.dk/release/?id=119395
 
 Music_Processor
      NAME: The Music Processor
    AUTHOR: M. Peter Engelbrite
  RELEASED: 1984 Sight & Sound
-REFERENCE: http://csdb.dk/release/?id=150058
+REFERENCE: https://csdb.dk/release/?id=150058
 
 Music_Studio/Lieblich
  RELEASED: 1985 Activision
-REFERENCE: http://csdb.dk/release/?id=90711
+REFERENCE: https://csdb.dk/release/?id=90711
 
 Music_Works
  RELEASED: 1991 Simulmondo
-REFERENCE: http://csdb.dk/release/?id=92082
+REFERENCE: https://csdb.dk/release/?id=92082
 
 Musicodec
      NAME: Musicodec
@@ -1006,22 +1034,25 @@ MusicShop
      NAME: The Music Shop
    AUTHOR: Don Williams
  RELEASED: 1984 Brøderbund Software
-REFERENCE: http://csdb.dk/release/?id=82453
+REFERENCE: https://csdb.dk/release/?id=82453
 
 Muso
    AUTHOR: Tony Reihana
  RELEASED: 1985
-REFERENCE: http://csdb.dk/release/?id=156826
+REFERENCE: https://csdb.dk/release/?id=156826
+
+Neil_Bate
+   AUTHOR: Neil Bate
 
 NinjaTracker_V1.x
    AUTHOR: Lasse Öörni (Cadaver)
  RELEASED: 2002 Covert Bitops
-REFERENCE: http://csdb.dk/release/?id=7206
+REFERENCE: https://csdb.dk/release/?id=7206
 
 NinjaTracker_V2.x
    AUTHOR: Lasse Öörni (Cadaver)
  RELEASED: 2006 Covert Bitops
-REFERENCE: http://csdb.dk/release/?id=39374
+REFERENCE: https://csdb.dk/release/?id=39374
 
 Noise-Mon_V2
    AUTHOR: Piotr Pisula
@@ -1030,7 +1061,7 @@ Noise-Mon_V2
 NordicBeat_Editor
    AUTHOR: Daniel Hansson (Matrix)
  RELEASED: 1991 Nordic Beat
-REFERENCE: http://csdb.dk/release/?id=33642
+REFERENCE: https://csdb.dk/release/?id=33642
 
 Nutt67_Digi
    AUTHOR: Ben Hayes (Nutt'67)
@@ -1047,7 +1078,7 @@ Odie_tiny
 OdinTracker
    AUTHOR: Zoltán Konyha (Zed)
  RELEASED: 2000
-REFERENCE: http://csdb.dk/release/?id=12577
+REFERENCE: https://csdb.dk/release/?id=12577
 
 Oeyvind_Jergan
    AUTHOR: Øyvind Jergan
@@ -1076,18 +1107,18 @@ MusDriver/Paul_Hughes
 Paradroid/Lameplayer
    AUTHOR: Paradroid
  RELEASED: 1990
-REFERENCE: http://csdb.dk/release/?id=101595
+REFERENCE: https://csdb.dk/release/?id=101595
 
 Paradroid/HubbardEd
    AUTHOR: Paradroid
  RELEASED: 1991
-REFERENCE: http://csdb.dk/release/?id=101594
+REFERENCE: https://csdb.dk/release/?id=101594
 
 PASS
      NAME: P.A.S.S. (Parabola Advanced Synthesis Software)
    AUTHOR: Bob Landwehr
  RELEASED: 1983 Parabola
-REFERENCE: http://csdb.dk/release/?id=128704
+REFERENCE: https://csdb.dk/release/?id=128704
 
 PlayStar
      NAME: Play Star
@@ -1097,45 +1128,48 @@ PlayStar
      NAME: Play Star V2.0
    AUTHOR: Radoslaw Andrzejewicz (Rabbi)
  RELEASED: 1996
-REFERENCE: http://csdb.dk/release/?id=122335
+REFERENCE: https://csdb.dk/release/?id=122335
 
 PollyTracker
    AUTHOR: Aleksi Eeben
  RELEASED: 2005
-REFERENCE: http://csdb.dk/release/?id=18605
+REFERENCE: https://csdb.dk/release/?id=18605
 
 Polyanna
    AUTHOR: Aleksi Eeben
  RELEASED: 2017
-REFERENCE: http://csdb.dk/release/?id=153091
+REFERENCE: https://csdb.dk/release/?id=153091
 
 Power_Music
    AUTHOR: Michael Kukat (Raster Buster)
  RELEASED: 1989 Matrix
-REFERENCE: http://csdb.dk/release/?id=61127
+REFERENCE: https://csdb.dk/release/?id=61127
 
 Pretzel/C64Composer
      NAME: C64 Composer
    AUTHOR: Fredrik Blom (Coq Rouge)
  RELEASED: 1989 Pretzel Logic
-REFERENCE: http://csdb.dk/release/?id=27453
+REFERENCE: https://csdb.dk/release/?id=27453
 
 Pretzel/Soundscape
      NAME: Soundscape
    AUTHOR: Fredrik Blom
  RELEASED: 1990 Pretzel Logic
-REFERENCE: http://csdb.dk/release/?id=33643
+REFERENCE: https://csdb.dk/release/?id=33643
 
 Prophet64
  RELEASED: 2006 8bit Ventures
-  COMMENT: More info: http://www.prophet64.com
+  COMMENT: More info: https://www.8bitventures.com/prophet64/
 
 Mssiah
  RELEASED: 2008 8bit Ventures
-  COMMENT: More info: http://www.mssiah.com
+  COMMENT: More info: https://www.mssiah.com
 
 Prosonix
- RELEASED: 1989 Prosonix
+     NAME: Prosonix Music Editor
+   AUTHOR: Stein Pedersen
+ RELEASED: 1988 Prosonix
+REFERENCE: https://csdb.dk/release/?id=179618
   COMMENT: Used by several people within the Prosonix music group
 
 PVL/Rhythmic_Lunatics
@@ -1152,7 +1186,7 @@ Rayden_Digi_V2
 
 Reflextracker
    AUTHOR: Tammo Hinrichs (kb) & Matthias Kramm (Quiss) & Zorc
-REFERENCE: http://csdb.dk/release/?id=43348
+REFERENCE: https://csdb.dk/release/?id=43348
 
 Reiter_Digi
    AUTHOR: Bartek Stobiecki (Reiter)
@@ -1172,11 +1206,11 @@ Robert_Westgate_v2
 RoMuzak_V6.x
    AUTHOR: Oliver Blasnik (ROM)
  RELEASED: 1989 Digital Marketing
-REFERENCE: http://csdb.dk/release/?id=17814
+REFERENCE: https://csdb.dk/release/?id=17814
 
 RoMuzak_V7.x
    AUTHOR: Oliver Blasnik (ROM)
-REFERENCE: http://csdb.dk/release/?id=17819
+REFERENCE: https://csdb.dk/release/?id=17819
 
 Rule3_Digi_2
    AUTHOR: Marcin Jedrusik (Helios)
@@ -1188,18 +1222,18 @@ Ryo_Kawasaki
      NAME: Kawasaki Synthesizer
    AUTHOR: Ryo Kawasaki
  RELEASED: 1983 Sight & Sound Music Software
-REFERENCE: http://csdb.dk/release/?id=129922
+REFERENCE: https://csdb.dk/release/?id=129922
   COMMENT: More info: http://www.ryokawasaki.com/c64/
 
 SadoTracker
    AUTHOR: Lasse Öörni (Cadaver)
  RELEASED: 1999 Covert Bitops
-REFERENCE: http://csdb.dk/release/?id=72773
+REFERENCE: https://csdb.dk/release/?id=72773
 
 Samar/Raver_V1.0
    AUTHOR: Krzysztof Szczech (Stinger)
  RELEASED: 1998 Samar Productions
-REFERENCE: http://csdb.dk/release/?id=28685
+REFERENCE: https://csdb.dk/release/?id=28685
 
 Sanyo_Digi
    AUTHOR: Stephane Martel (Sanyo)
@@ -1208,23 +1242,23 @@ Sentinel_Composer_V1.0
      NAME: Sentinel Composer V1.0
    AUTHOR: Sentinel
  RELEASED: 1994 Cherubs
-REFERENCE: http://csdb.dk/release/?id=156924
+REFERENCE: https://csdb.dk/release/?id=156924
 
 Sequencer
      NAME: Sequencer
    AUTHOR: Thomas Krätzig
  RELEASED: 1985 64'er/Markt & Technik
-REFERENCE: http://csdb.dk/release/?id=129802
+REFERENCE: https://csdb.dk/release/?id=129802
 
 SidFactory/Laxity
    AUTHOR: Thomas Egeskov Petersen (Laxity)
  RELEASED: 2006
-REFERENCE: http://csdb.dk/release/?id=39519
+REFERENCE: https://csdb.dk/release/?id=39519
 
 Sidplayer64
    AUTHOR: Craig Chamberlain
  RELEASED: 1985
-REFERENCE: http://csdb.dk/release/?id=33248
+REFERENCE: https://csdb.dk/release/?id=33248
   COMMENT: The original Sidplayer is published as Part 3 of the book
            "All About the Commodore 64, Volume Two" by Craig Chamberlain,
            a COMPUTE! Books publication.
@@ -1237,7 +1271,7 @@ REFERENCE: http://www.sidtracker64.com
 SidWinder
    AUTHOR: Balázs Takács (Taki)
  RELEASED: 1999 Natural Beat
-REFERENCE: http://csdb.dk/release/?id=66494
+REFERENCE: https://csdb.dk/release/?id=66494
 
 Silas_Warner_1
    AUTHOR: Silas S. Warner
@@ -1245,14 +1279,17 @@ Silas_Warner_1
 Silas_Warner_2
    AUTHOR: Silas S. Warner
 
-SkylineTech/Boogaloo
-   AUTHOR: Linus Nielsen (Boogaloo)
-
-SkylineTech/Danne
-     NAME: Skyline Editor
+SkyLine_Editor
+     NAME: SkyLine Editor
    AUTHOR: Daniel Stenberg (Danne)
  RELEASED: 1989 SkyLine Technics
-REFERENCE: http://csdb.dk/release/?id=22726
+REFERENCE: https://csdb.dk/release/?id=22726
+
+SkyLine_Editor_V3.0
+     NAME: SkyLine Editor
+   AUTHOR: Daniel Stenberg (Danne)
+ RELEASED: 1990 SkyLine Technics
+REFERENCE: https://csdb.dk/release/?id=167080
 
 Slaygon
    AUTHOR: Kenneth Mutka (Slaygon)
@@ -1260,24 +1297,24 @@ Slaygon
 SoedeSoft
    AUTHOR: Jeroen Soede & Michiel Soede
  RELEASED: 1988 Soedesoft
-REFERENCE: http://csdb.dk/release/?id=117095
+REFERENCE: https://csdb.dk/release/?id=117095
   COMMENT: The editor is also known as Soundmaster or SoedeSound Editor
 
 (Soundmaster_V1.0)
    AUTHOR: Jeroen Soede & Michiel Soede
  RELEASED: 1988 Soedesoft
-REFERENCE: http://csdb.dk/release/?id=10735
+REFERENCE: https://csdb.dk/release/?id=10735
   COMMENT: The editor is also known as SoedeSound Editor
 
 (Soundmaster_V3.1)
    AUTHOR: Jeroen Soede & Michiel Soede
  RELEASED: 1989 Soedesoft
-REFERENCE: http://csdb.dk/release/?id=90307
+REFERENCE: https://csdb.dk/release/?id=90307
 
 (Soundmaster_V3.2)
    AUTHOR: Jeroen Soede & Michiel Soede
  RELEASED: 1988 Soedesoft
-REFERENCE: http://csdb.dk/release/?id=117086
+REFERENCE: https://csdb.dk/release/?id=117086
   COMMENT: This version of the editor is not officially released by
            Soedesoft and was only meant for internal use only
 
@@ -1298,13 +1335,13 @@ SoundMaker
 
 SoftwareAutomaticMouth
  RELEASED: 1983 Don't Ask Computer Software
-REFERENCE: http://csdb.dk/release/?id=42843
-  COMMENT: More info: http://en.wikipedia.org/wiki/Software_Automatic_Mouth
+REFERENCE: https://csdb.dk/release/?id=42843
+  COMMENT: More info: https://en.wikipedia.org/wiki/Software_Automatic_Mouth
 
 Soft_Tune_Composer
    AUTHOR: Melih Küçükçalik
  RELEASED: 1989
-REFERENCE: http://csdb.dk/release/?id=101769
+REFERENCE: https://csdb.dk/release/?id=101769
 
 Song_Writer
    AUTHOR: Jeremy Thorne
@@ -1313,7 +1350,7 @@ Sonic_Graffiti
      NAME: Sonic Graffiti Music Editor
    AUTHOR: Andy Lumley
  RELEASED: 1989 Sonic Graffiti
-REFERENCE: http://csdb.dk/release/?id=122160
+REFERENCE: https://csdb.dk/release/?id=122160
 
 Sorex_Digi
    AUTHOR: Geert Verschueren (Sorex)
@@ -1321,12 +1358,12 @@ Sorex_Digi
 Sosperec
    AUTHOR: Gabor Torday (Grabowsky)
  RELEASED: 1991
-REFERENCE: http://csdb.dk/release/?id=18233
+REFERENCE: https://csdb.dk/release/?id=18233
 
 Soundbooster
    AUTHOR: Stephan Swertvaegher (Midas)
  RELEASED: 1990
-REFERENCE: http://csdb.dk/release/?id=7536
+REFERENCE: https://csdb.dk/release/?id=7536
 
 SounDemon
    AUTHOR: Otto Järvinen (SounDemoN)
@@ -1334,14 +1371,14 @@ SounDemon
 SoundMonitor
    AUTHOR: Chris Hülsbeck
  RELEASED: 1986 64'er/Markt & Technik
-REFERENCE: http://csdb.dk/release/?id=59929
+REFERENCE: https://csdb.dk/release/?id=59929
   COMMENT: Released as a type-in listing in the October 1986 issue of the
            German C-64 magazine 64'er.
 
 (BeatBox/KarlXII)
    AUTHOR: Lars Patrik Wallström (Karl XII)
  RELEASED: 1987 Science 451
-REFERENCE: http://csdb.dk/release/?id=16309
+REFERENCE: https://csdb.dk/release/?id=16309
   COMMENT: This editor was also released by The Sharks under the name
            Noisemaster 1 and Noisemaster 2
 
@@ -1349,50 +1386,51 @@ REFERENCE: http://csdb.dk/release/?id=16309
      NAME: Rock Monitor V2
    AUTHOR: Oscar Giesen (OPM)
  RELEASED: 1987 Dutch USA-Team
-REFERENCE: http://csdb.dk/release/?id=20664
+REFERENCE: https://csdb.dk/release/?id=20664
 
 (DUSAT/RockMon3)
      NAME: Rock Monitor V3
    AUTHOR: Oscar Giesen (OPM)
  RELEASED: 1987 Dutch USA-Team
-REFERENCE: http://csdb.dk/release/?id=13370
+REFERENCE: https://csdb.dk/release/?id=33038
 
 (DUSAT/RockMon4)
      NAME: Rock Monitor V4
    AUTHOR: Oscar Giesen (OPM)
  RELEASED: 1987 Dutch USA-Team
-REFERENCE: http://csdb.dk/release/?id=20676
+REFERENCE: https://csdb.dk/release/?id=20676
 
 (DUSAT/RockMon5.0)
      NAME: Rock Monitor V5
    AUTHOR: Oscar Giesen (OPM)
  RELEASED: 1988 Dutch USA-Team
-REFERENCE: http://csdb.dk/release/?id=10632
+REFERENCE: https://csdb.dk/release/?id=10632
   COMMENT: Later a 100% version of the editor/player was released.
 
 (DUSAT/RockMon5.1)
      NAME: Rock Monitor V5 100%
    AUTHOR: Oscar Giesen (OPM)
  RELEASED: 1988 Dutch USA-Team
-REFERENCE: http://csdb.dk/release/?id=122393
+REFERENCE: https://csdb.dk/release/?id=122393
   COMMENT: This is the 100% working version of Rock Monitor 5
 
 (DigiMonitor)
      NAME: DigiMonitor
    AUTHOR: Pex Tufvesson (Mahoney)
  RELEASED: 1987 Defiers
-REFERENCE: http://csdb.dk/release/?id=34224
-  COMMENT: Uses the same digi routine as JamMaster II and JamMaster III by Banana
+REFERENCE: https://csdb.dk/release/?id=34224
+  COMMENT: Uses the digi routine used in /MUSICIANS/M/MC/Nemesis.sid which is
+           also used in JamMaster II and JamMaster III by Banana
 
 (Digitronix)
    AUTHOR: Ronald A. Brockmann (RAB)
  RELEASED: 1988 The Lightning Duo
-REFERENCE: http://csdb.dk/release/?id=17476
+REFERENCE: https://csdb.dk/release/?id=17476
 
 (DrumMaker2)
    AUTHOR: Oliver Hoeller (Rhodan) & Ske
  RELEASED: 1988 Warriors of Time
-REFERENCE: http://csdb.dk/release/?id=21823
+REFERENCE: https://csdb.dk/release/?id=21823
 
 (Huelsbeck_Digi_V1)
    AUTHOR: Chris Hülsbeck
@@ -1403,7 +1441,7 @@ REFERENCE: http://csdb.dk/release/?id=21823
 (JamMasterV1)
    AUTHOR: Christof Mühlan (Banana) & TAM
  RELEASED: 1987
-REFERENCE: http://csdb.dk/release/?id=106085
+REFERENCE: https://csdb.dk/release/?id=106085
   COMMENT: Also known as Soundking v1 by DSA and JamMonitor by TDT
 
 (Mahoney_Digi)
@@ -1414,23 +1452,23 @@ REFERENCE: http://csdb.dk/release/?id=106085
      NAME: Music-Master V1.3
    AUTHOR: Sascha (The Syndicate)
  RELEASED: 1988 Beastie Boys
-REFERENCE: http://csdb.dk/release/?id=19973
+REFERENCE: https://csdb.dk/release/?id=19973
 
 SoundWriter_2.0
    AUTHOR: Thorsten Klose
  RELEASED: 1992 64'er/Markt & Technik
-REFERENCE: http://csdb.dk/release/?id=17422
+REFERENCE: https://csdb.dk/release/?id=17422
 
 Sound-Tracker_64
    AUTHOR: Claus Leth Gregersen (Groo) & Michael Toft (Dean) & Lars Pedersen (Spe)
  RELEASED: 1988 Mechanix 2124
-REFERENCE: http://csdb.dk/release/?id=36365
+REFERENCE: https://csdb.dk/release/?id=36365
 
 Stephan/Bytemare
      NAME: Music-Editor
    AUTHOR: Stephan Schloepke (Magic Man)
  RELEASED: 1990 Bytemare
-REFERENCE: http://csdb.dk/release/?id=125970
+REFERENCE: https://csdb.dk/release/?id=125970
 
 Stephen_Ruddy
    AUTHOR: Stephen Ruddy
@@ -1441,25 +1479,25 @@ Magic_Man/Crazy
 SynC
      NAME: SYNdrom Composer
    AUTHOR: Matthias Hartung (The Syndrom)
-REFERENCE: http://csdb.dk/release/?id=7850
+REFERENCE: https://csdb.dk/release/?id=7850
   COMMENT: The first releases of this editor were released under the name
            "64'er Music Editor".
 
 Synthesizer64
      NAME: Synthesizer 64
    AUTHOR: Werner Kracht
-REFERENCE: http://csdb.dk/release/?id=86037
+REFERENCE: https://csdb.dk/release/?id=86037
   COMMENT: Digital Marketing PD disk dm068a.d64
 
 Synth_Executor
      NAME: Synth Executor
    AUTHOR: Georg Feil (Georgie)
  RELEASED: 1986 Georg Feil
-REFERENCE: http://csdb.dk/release/?id=57436
+REFERENCE: https://csdb.dk/release/?id=57436
 
 System6581
    AUTHOR: Fredrik Hederstierna (Zizyphus)
-REFERENCE: http://csdb.dk/release/?id=27434
+REFERENCE: https://csdb.dk/release/?id=27434
 
 TBB/SideB
    AUTHOR: Tero Hilpinen (TBB)
@@ -1476,24 +1514,24 @@ TFMX
 TFMX/MasterComposer
    AUTHOR: Playboy & Sir Tippitt
  RELEASED: 1990 Bierfront
-REFERENCE: http://csdb.dk/release/?id=4298
+REFERENCE: https://csdb.dk/release/?id=4298
   COMMENT: Editor that is based on the player of
            /MUSICIANS/H/Huelsbeck_Chris/Starball.sid
 
 TFMX/TimeComposer
    AUTHOR: Oliver Hoeller (Rhodan)
  RELEASED: 1990
-REFERENCE: http://csdb.dk/release/?id=62502
+REFERENCE: https://csdb.dk/release/?id=62502
 
 TFX
    AUTHOR: Ray
  RELEASED: 1995 Unreal
-REFERENCE: http://csdb.dk/release/?id=110111
+REFERENCE: https://csdb.dk/release/?id=110111
 
 TheTracker/Hitmen
    AUTHOR: Groepaz
  RELEASED: 1998 Hitmen
-REFERENCE: http://csdb.dk/release/?id=3385
+REFERENCE: https://csdb.dk/release/?id=3385
 
 The_Music_System
      NAME: The Music System
@@ -1510,12 +1548,12 @@ Torpex
      NAME: Torpex's Music Editor
    AUTHOR: Peter Eriksson (Torpex)
  RELEASED: 1991 Wildstyle
-REFERENCE: http://csdb.dk/release/?id=78289
+REFERENCE: https://csdb.dk/release/?id=78289
 
 TrackPlayer
    AUTHOR: Marceli Rzepka (Lyon)
  RELEASED: Motiv 8
-REFERENCE: http://csdb.dk/release/?id=90076
+REFERENCE: https://csdb.dk/release/?id=90076
 
 Trasher_Digi
    AUTHOR: Preben Vindholmen (Trasher)
@@ -1527,7 +1565,7 @@ Twice_Effect_Editor
      NAME: Twice Effect Music Editor
    AUTHOR: Thomas Engelau
  RELEASED: 1991 Twice Effect
-REFERENCE: http://csdb.dk/release/?id=157105
+REFERENCE: https://csdb.dk/release/?id=157105
 
 Twynn
    AUTHOR: Ruud den Bekker (Twynn)
@@ -1536,7 +1574,7 @@ Ubik's_Musik
      NAME: Ubik's Musik
    AUTHOR: Dave Korn (Ubik)
  RELEASED: 1987 Firebird
-REFERENCE: http://csdb.dk/release/?id=39950
+REFERENCE: https://csdb.dk/release/?id=39950
 
 Ultimate
    AUTHOR: Dave Thomas <?>
@@ -1547,7 +1585,7 @@ Van_Styer_Digi
 Vibrants/Laxity
      NAME: LAXITY editor
    AUTHOR: Thomas Egeskov Petersen (Laxity)
-REFERENCE: http://csdb.dk/release/?id=122333
+REFERENCE: https://csdb.dk/release/?id=122333
 
 Vibrants/JO
    AUTHOR: Poul-Jesper Olsen (JO)
@@ -1555,12 +1593,12 @@ Vibrants/JO
 Virtuoso
    AUTHOR: Hein Holt
  RELEASED: 2015 Vision
-REFERENCE: http://csdb.dk/release/?id=139247
+REFERENCE: https://csdb.dk/release/?id=139247
 
 VoiceEater
    AUTHOR: Rolf Runar Bakke
  RELEASED: 1999 SHAPE
-REFERENCE: http://csdb.dk/release/?id=33610
+REFERENCE: https://csdb.dk/release/?id=33610
 
 Voicemaster_Covox
      NAME: Voicemaster
@@ -1570,7 +1608,7 @@ Voicemaster_Covox
 Walt/Bonzai
    AUTHOR: Anders Fogh (Walt)
  RELEASED: 1990 Bonzai
-REFERENCE: http://csdb.dk/release/?id=12580
+REFERENCE: https://csdb.dk/release/?id=12580
 
 Walt_Digi
    AUTHOR: Anders Fogh (Walt)
@@ -1587,7 +1625,7 @@ WizPlayer_2.0
 Wyndex/ISEQ
    AUTHOR: Stephen L. Judd (Wyndex)
  RELEASED: 2001
-REFERENCE: http://csdb.dk/release/?id=113028
+REFERENCE: https://csdb.dk/release/?id=113028
 
 Wyndex/Blahtune
    AUTHOR: Stephen L. Judd (Wyndex)
@@ -1598,18 +1636,21 @@ XPMCK
      NAME: Cross Platform Music Compiler Kit
    AUTHOR: Mic
  RELEASED: 2008
-REFERENCE: http://csdb.dk/release/?id=135624
+REFERENCE: https://csdb.dk/release/?id=135624
 
 Yip_Megasound
    AUTHOR: Jori Olkkonen (Yip)
-REFERENCE: http://csdb.dk/release/?id=72917
+REFERENCE: https://csdb.dk/release/?id=72917
 
 Zardax/SoundKiller
    AUTHOR: Ari-Pekka Paljakka (Zardax) & Sami Ilmonen (Scapegoat)
-REFERENCE: http://csdb.dk/release/?id=99054
+REFERENCE: https://csdb.dk/release/?id=99054
 
 Zardax
    AUTHOR: Ari-Pekka Paljakka (Zardax)
+
+Zirias
+   AUTHOR: Felix Palmen (Zirias)
 
 Zyborg
    AUTHOR: Mikkel Jakobsen (Zyborg)

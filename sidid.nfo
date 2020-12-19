@@ -384,6 +384,9 @@ REFERENCE: https://csdb.dk/release/?id=4649
 EMS_V9.x
    AUTHOR: Sean Connolly (Odie)
 
+EMS_V10.x
+   AUTHOR: Sean Connolly (Odie)
+
 Entropy_Editor
      NAME: Entropy Music Editor
    AUTHOR: Simon Collis (Uzzy)
@@ -466,11 +469,16 @@ REFERENCE: https://csdb.dk/release/?id=7175
  RELEASED: 1992 Moz(Ic)Art
 REFERENCE: https://csdb.dk/release/?id=33645
 
-Geir_Tjelta/MacroPlay
+Geir_Tjelta/MacroPlay_1
      NAME: Macro Player
    AUTHOR: Geir Tjelta
  RELEASED: 2009
 REFERENCE: https://csdb.dk/release/?id=76493
+
+Geir_Tjelta/MacroPlay_2
+     NAME: Macro Player
+   AUTHOR: Geir Tjelta
+ RELEASED: 2009
 
 Geir_Tjelta_Digi_1
      NAME: NMI Player v1.0
@@ -735,6 +743,12 @@ REFERENCE: https://csdb.dk/release/?id=18767
 
 Jonas_Hulten
    AUTHOR: Jonas Hultén
+
+Kawasaki_Synthesizer
+     NAME: Kawasaki Synthesizer
+   AUTHOR: Ryo Kawasaki
+ RELEASED: 1983 Sight & Sound Music Software
+  COMMENT: More info: http://www.ryokawasaki.com/c64/
 
 KB/SDS
    AUTHOR: Tammo Hinrichs (kb) of Smash Designs (SDS)
@@ -1217,13 +1231,6 @@ Rule3_Digi_2
 
 Russell_Lieblich
    AUTHOR: Russell Lieblich
-
-Ryo_Kawasaki
-     NAME: Kawasaki Synthesizer
-   AUTHOR: Ryo Kawasaki
- RELEASED: 1983 Sight & Sound Music Software
-REFERENCE: https://csdb.dk/release/?id=129922
-  COMMENT: More info: http://www.ryokawasaki.com/c64/
 
 SadoTracker
    AUTHOR: Lasse Öörni (Cadaver)

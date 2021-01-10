@@ -34,6 +34,7 @@ zeropage-relocated.
 
 No responsibility whatsoever is taken for the correctness of the existing
 signatures! Additional sigs by Yodelking, Ian Coog, ice00 & Wilfred/HVSC.
+TED player signatures (tedid.cfg) from Ninja.
 
 Note: DigiOrganizer is listed last in the configfile, so it is not found by
 default when a tune contains another recognized playroutine. Use -m to find
@@ -58,7 +59,7 @@ V1.08   - List full filenames when scanning for one player only
 V1.09   - Fixed not recognizing the last byte of a file as part of a sequence
 
 
-Copyright (C) 2006-2015 by the author & contributors. All rights reserved.
+Copyright (C) 2006-2021 by the author & contributors. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:

@@ -5,14 +5,16 @@ REFERENCE: https://csdb.dk/release/?id=10741
 4bitDigi/THCM
    AUTHOR: Uwe Anfang (The Human Code Machine)
 
-8bitDigi/THCM
+OxyMod/THCM
    AUTHOR: Uwe Anfang (The Human Code Machine)
   COMMENT: The technique used in this player was discovered by Otto Järvinen
-           (SounDemoN) in 2006. It makes use of the noise waveform and the
-           test bit and uses the frequency register to write the 8-bit sample
-           data to the SID chip.
+           (SounDemoN) in 2006. It makes use of waveform $00 in combination
+           with the test bit and uses the frequency register to write the 8-bit
+           sample data to the SID chip.
            More info about this technique:
-           https://csdb.dk/forums/?roomid=14&topicid=24626
+           https://codebase64.org/doku.php?id=base:vicious_sid_demo_routine_explained
+           The same technique was already discovered in 1993 and used in the
+           DigiMaster utility by Chris Brenner.
 
 8bitDigi/Mahoney
    AUTHOR: Pex Tufvesson (Mahoney)
@@ -31,6 +33,19 @@ Abaddon_Digi
 
 Acid_Player
    AUTHOR: Stuart McDowell (Acid)
+
+Algorithm/8bitDigi
+   AUTHOR: Naveed Khugiani (Algorithm)
+  COMMENT: Uses the same technique to play 8-bit samples as in OxyMod/THCM.
+
+Algorithm/AlgoVQTracker_V1
+   AUTHOR: Naveed Khugiani (Algorithm)
+
+Algorithm/Frodigi
+     NAME: Free Running Oscillator Digi
+   AUTHOR: Naveed Khugiani (Algorithm)
+  COMMENT: Uses the free running sid oscillators on the sid chip in 3 channels
+           and a master volume to recreate the audio.
 
 ALiH
    AUTHOR: Jaymz Julian (A Life in Hell)
@@ -160,6 +175,7 @@ REFERENCE: https://csdb.dk/release/?id=149128
 
 Censor_8bit_Digi_1
    AUTHOR: Fredrik Ternell (Swallow)
+  COMMENT: Uses the same technique to play 8-bit samples as in OxyMod/THCM.
 
 Censor_8bit_Digi_2
    AUTHOR: Fredrik Ternell (Swallow)
@@ -690,6 +706,10 @@ Jason_Page/Jay
  RELEASED: 1988
 REFERENCE: https://csdb.dk/release/?id=43956
 
+Jason_Page/RobTracker
+  AUTHOR: Jason Page
+ COMMENT: Based on Rob Hubbard's Digi routine.
+
 Jeff
      NAME: Music Editor
    AUTHOR: Søren Lund (Jeff)
@@ -992,6 +1012,22 @@ REFERENCE: https://csdb.dk/release/?id=77308
 REFERENCE: https://csdb.dk/release/?id=82618
   COMMENT: Editor based on the Music Assembler player
 
+(DoubleTracker)
+     NAME: DoubleTracker
+   AUTHOR: Pawel Soltysinski (Polonus)
+ RELEASED: 1993 Padua
+REFERENCE: https://csdb.dk/release/?id=8430
+  COMMENT: Multispeed version of VoiceTracker. Editor based on the Music
+           Assembler player
+
+(Ten_Tracker)
+     NAME: Ten Tracker
+   AUTHOR: Moog
+ RELEASED: 1991 Keen Acid
+REFERENCE: https://csdb.dk/release/?id=63135
+  COMMENT: 10x speed version of VoiceTracker. Editor based on the Music
+           Assembler player
+
 Music_Producer_II
      NAME: Music Producer II
    AUTHOR: J.N.W. Cheesman
@@ -1251,11 +1287,22 @@ Sentinel_Composer_V1.0
  RELEASED: 1994 Cherubs
 REFERENCE: https://csdb.dk/release/?id=156924
 
+Sentinel_V0.7
+     NAME: Sentinel Music Player V07.G0
+   AUTHOR: Sentinel
+ RELEASED: 2020 Sentinel
+REFERENCE: https://csdb.dk/release/?id=202684
+
 Sequencer
      NAME: Sequencer
    AUTHOR: Thomas Krätzig
  RELEASED: 1985 64'er/Markt & Technik
 REFERENCE: https://csdb.dk/release/?id=129802
+
+Sidbang64/Warp8
+   AUTHOR: Sebastian Abel (Warp8)
+ RELEASED: 2021
+REFERENCE: https://csdb.dk/release/?id=199203
 
 SidFactory/Laxity
    AUTHOR: Thomas Egeskov Petersen (Laxity)
@@ -1645,9 +1692,13 @@ XPMCK
  RELEASED: 2008
 REFERENCE: https://csdb.dk/release/?id=135624
 
-Yip_Megasound
+Yip_MegaSound
+     NAME: MegaSound Music Editor
    AUTHOR: Jori Olkkonen (Yip)
+ RELEASED: 1988
 REFERENCE: https://csdb.dk/release/?id=72917
+  COMMENT: MegaSound was published in the Finnish Commodore magazine C=Lehti in
+           issue 5/1988
 
 Zardax/SoundKiller
    AUTHOR: Ari-Pekka Paljakka (Zardax) & Sami Ilmonen (Scapegoat)

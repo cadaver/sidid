@@ -204,14 +204,6 @@ Chris_Grigg
      NAME: Sound Programming Language (SPL)
    AUTHOR: Chris Grigg
 
-Chris_Murray
-   AUTHOR: Chris Murray
-  COMMENT: The player is used in several games, all seems derived from
-           Chris Murray's Henrys_House.sid
-           SID Sequencer (https://csdb.dk/release/?id=122332) and
-           Aleatory Composer (https://csdb.dk/release/?id=122331) are
-           music editors that are based on this player.
-
 Chubrocker_V3.x
    AUTHOR: László Benke (Dec)
  RELEASED: 1995 Cadgers
@@ -227,6 +219,21 @@ REFERENCE: https://csdb.dk/release/?id=101599
 Comer/Sample_Studio
    AUTHOR: Pawel Kulikowski (Comer)
 REFERENCE: https://csdb.dk/release/?id=101704
+
+Companion
+     NAME: The Companion to the Commodore 64
+   AUTHOR: Keith Bowden
+ RELEASED: 1984 Pan Books
+  COMMENT: Type-in without editor. The book suggests to add features, which
+           has been done on Rob Hubbard's two earliest SIDs and Clever
+           Music's. In 1988 and in 1989, Vic H. Berry based two editors on this
+           driver:
+           SID Sequencer (https://csdb.dk/release/?id=122332) and
+           Aleatory Composer (https://csdb.dk/release/?id=122331)
+
+Companion/Jay_Derrett
+   AUTHOR: Jay Derrett
+  COMMENT: Rewrite of Clever Music's extension of Companion.
 
 CRD_Tracker
      NAME: CRD-Tracker64
@@ -359,10 +366,10 @@ Ed/Wrath
 Ed/Wrath_Digi
    AUTHOR: Eddie Svärd (Ed)
 
-Ed_Bogas_V1
+Ed_Bogas/Accolade
    AUTHOR: Ed Bogas
 
-Ed_Bogas_V2
+Ed_Bogas/Hakansson
    AUTHOR: Ed Bogas
 
 Electro_Sound
@@ -989,6 +996,10 @@ REFERENCE: https://csdb.dk/release/?id=10604
 Montecchio/Coolsound
    AUTHOR: Andreas Montecchio
 
+MrMouse/EasyPlayer
+   AUTHOR: Michael Zuurman (Mr. Mouse)
+  COMMENT: Fork of 4-Mat's AY Player
+
 MrWarp_Digi
    AUTHOR: Markus Peter (Mr. Warp)
   COMMENT: Probably derived from C64_Speech_System
@@ -1093,6 +1104,10 @@ REFERENCE: https://csdb.dk/release/?id=156826
 
 Neil_Bate
    AUTHOR: Neil Bate
+
+Network
+     NAME: Network Music Editor V1.4
+REFERENCE: https://csdb.dk/release/?id=207305
 
 NinjaTracker_V1.x
    AUTHOR: Lasse Öörni (Cadaver)

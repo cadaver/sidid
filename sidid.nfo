@@ -2,7 +2,7 @@
    AUTHOR: Falco Paul
 REFERENCE: https://csdb.dk/release/?id=10741
 
-4bitDigi/THCM
+OxyMod4Bit/THCM
    AUTHOR: Uwe Anfang (The Human Code Machine)
 
 OxyMod/THCM
@@ -38,7 +38,7 @@ Algorithm/8bitDigi
    AUTHOR: Naveed Khugiani (Algorithm)
   COMMENT: Uses the same technique to play 8-bit samples as in OxyMod/THCM.
 
-Algorithm/AlgoVQTracker_V1
+AlgoVQTracker_V1
    AUTHOR: Naveed Khugiani (Algorithm)
 
 Algorithm/Frodigi
@@ -234,6 +234,7 @@ Companion
 Companion/Jay_Derrett
    AUTHOR: Jay Derrett
   COMMENT: Rewrite of Clever Music's extension of Companion.
+           Player is used in CRL (Computer Rentals Limited) releases
 
 CRD_Tracker
      NAME: CRD-Tracker64
@@ -243,10 +244,6 @@ REFERENCE: https://csdb.dk/release/?id=48461
 
 Conrad/Samar
    AUTHOR: Owen Crowley (Conrad)
-
-CRL/Jay_Derrett
-   AUTHOR: Jay Derrett
-  COMMENT: Player is used in CRL (Computer Rentals Limited) releases
 
 Cyberbrain_Digi
    AUTHOR: Bjarke Nørgaard Laustsen (CyberBrain)
@@ -276,19 +273,19 @@ Dane
 Daw_Digi
    AUTHOR: David Fahlander (Daw)
 
-DefleMask_V1
+DefleMask_v1
    AUTHOR: Leonardo Demartino (Delek)
  RELEASED: 2013
 
-DefleMask_V2
+DefleMask_v2
    AUTHOR: Leonardo Demartino (Delek)
  RELEASED: 2013
 REFERENCE: https://csdb.dk/release/?id=118363
 
-DefleMask_V12
+DefleMask_v12
    AUTHOR: Leonardo Demartino (Delek)
  RELEASED: 2016
-REFERENCE: http://www.deflemask.com/
+REFERENCE: https://www.deflemask.com/
 
 DefMon
    AUTHOR: Mats (Frantic of Hack'n'Trade)
@@ -492,13 +489,13 @@ REFERENCE: https://csdb.dk/release/?id=7175
  RELEASED: 1992 Moz(Ic)Art
 REFERENCE: https://csdb.dk/release/?id=33645
 
-Geir_Tjelta/MacroPlay_1
+Geir_Tjelta/MacroPlay1
      NAME: Macro Player
    AUTHOR: Geir Tjelta
  RELEASED: 2009
 REFERENCE: https://csdb.dk/release/?id=76493
 
-Geir_Tjelta/MacroPlay_2
+Geir_Tjelta/MacroPlay2
      NAME: Macro Player
    AUTHOR: Geir Tjelta
  RELEASED: 2009
@@ -564,13 +561,16 @@ GoatTracker_V2/Mini
 GRG
    AUTHOR: Glenn Rune Gallefoss (GRG)
 
-GRG_tiny1
+GRG_tiny_1
    AUTHOR: Glenn Rune Gallefoss (GRG)
 
-GRG_tiny2
+GRG_tiny_2
    AUTHOR: Glenn Rune Gallefoss (GRG)
 
-GRG_tiny3
+GRG_tiny_3
+   AUTHOR: Glenn Rune Gallefoss (GRG)
+
+GRG_tiny_4
    AUTHOR: Glenn Rune Gallefoss (GRG)
 
 Gregor_Larson
@@ -588,9 +588,10 @@ Groo/Psygon
    AUTHOR: Claus Leth Gregersen (Groo)
 
 Groovy_Bits
+     NAME: Groovy Music
    AUTHOR: Lars Patrik Wallström (Karl XII)
  RELEASED: 1989 Groovy Bits
-REFERENCE: https://csdb.dk/release/?id=121370
+REFERENCE: https://csdb.dk/release/?id=121513
 
 Hansford/Interceptor
    AUTHOR: Graham Hansford
@@ -642,6 +643,16 @@ Hermit/1RasterTracker
    AUTHOR: Mihály Horváth (Hermit)
  RELEASED: 2013
 REFERENCE: https://csdb.dk/release/?id=117935
+
+Hermit/FlexSID
+   AUTHOR: Mihály Horváth (Hermit)
+ RELEASED: 2022
+REFERENCE: https://csdb.dk/release/?id=214694
+
+Hermit/FlexSID-Bare
+   AUTHOR: Mihály Horváth (Hermit)
+ RELEASED: 2022
+REFERENCE: https://csdb.dk/release/?id=214694
 
 HCL/BoozeDesign
    AUTHOR: David Malmborg (HCL)
@@ -707,6 +718,10 @@ JammicroV0
      NAME: Jammicro V0
    AUTHOR: Kamil Wolnikowski (Jammer)
 
+JammicroV1
+     NAME: Jammicro V1
+   AUTHOR: Kamil Wolnikowski (Jammer)
+
 Jason_Page/Jay
      NAME: Jays Music Routine
    AUTHOR: Jason Page (Jay)
@@ -714,8 +729,8 @@ Jason_Page/Jay
 REFERENCE: https://csdb.dk/release/?id=43956
 
 Jason_Page/RobTracker
-  AUTHOR: Jason Page
- COMMENT: Based on Rob Hubbard's Digi routine.
+   AUTHOR: Jason Page
+  COMMENT: Based on Rob Hubbard's Digi routine.
 
 Jeff
      NAME: Music Editor
@@ -741,10 +756,6 @@ REFERENCE: https://csdb.dk/release/?id=17292
 
 Jeff/XLarge
    AUTHOR: Søren Lund (Jeff)
-
-JITT_1.x
-   AUTHOR: Stefano Tognon (Ice00)
-REFERENCE: https://csdb.dk/release/?id=74136
 
 Johannes_Goettker
    AUTHOR: Johannes Göttker
@@ -775,7 +786,6 @@ Kawasaki_Synthesizer
      NAME: Kawasaki Synthesizer
    AUTHOR: Ryo Kawasaki
  RELEASED: 1983 Sight & Sound Music Software
-  COMMENT: More info: http://www.ryokawasaki.com/c64/
 
 KB/SDS
    AUTHOR: Tammo Hinrichs (kb) of Smash Designs (SDS)
@@ -991,7 +1001,7 @@ MoN/Deenen
 MoN/FutureComposer
    AUTHOR: Charles Deenen made the player & Juha Granberg (FCS) made the editor
 REFERENCE: https://csdb.dk/release/?id=10604
-  COMMENT: Editor made for the player of /MUSICIANS/T/Tel_Jeroen/Noisy_Pillars.sid
+  COMMENT: Editor made for the player of /MUSICIANS/T/Tel_Jeroen/Noisy_Pillars_tune_1.sid
 
 Montecchio/Coolsound
    AUTHOR: Andreas Montecchio
@@ -1043,7 +1053,7 @@ Music_Producer_II
      NAME: Music Producer II
    AUTHOR: J.N.W. Cheesman
 
-MusicComposer/Flash_Inc
+MusicComposer/FlashInc
      NAME: Music-Composer
    AUTHOR: Fredrik Karlsson (Zodiac) & Anders Elmén (Moon)
  RELEASED: 1991 Flash Inc.
@@ -1148,9 +1158,6 @@ REFERENCE: https://csdb.dk/release/?id=12577
 Oeyvind_Jergan
    AUTHOR: Øyvind Jergan
 
-Oeyvind_Jergan_2
-   AUTHOR: Øyvind Jergan
-
 OmegaSupreme_Digi
    AUTHOR: Olav Mørkrid (Omega Supreme)
 
@@ -1180,9 +1187,9 @@ Paradroid/HubbardEd
 REFERENCE: https://csdb.dk/release/?id=101594
 
 PASS
-     NAME: P.A.S.S. (Parabola Advanced Synthesis Software)
+     NAME: P.A.S.S. (Parabola Advanced Synthesis Software) / Allegro
    AUTHOR: Bob Landwehr
- RELEASED: 1983 Parabola
+ RELEASED: 1983 Parabola / 1984 Artworx Software
 REFERENCE: https://csdb.dk/release/?id=128704
 
 PlayStar
@@ -1324,6 +1331,11 @@ SidFactory/Laxity
  RELEASED: 2006
 REFERENCE: https://csdb.dk/release/?id=39519
 
+SidFactory_II/Laxity
+   AUTHOR: Thomas Egeskov Petersen (Laxity)
+ RELEASED: 2020
+REFERENCE: https://csdb.dk/release/?id=210571
+
 Sidplayer64
    AUTHOR: Craig Chamberlain
  RELEASED: 1985
@@ -1335,17 +1347,13 @@ REFERENCE: https://csdb.dk/release/?id=33248
 SidTracker64
    AUTHOR: Daniel Larsson (Pernod)
  RELEASED: 2015
-REFERENCE: http://www.sidtracker64.com
 
 SidWinder
    AUTHOR: Balázs Takács (Taki)
  RELEASED: 1999 Natural Beat
 REFERENCE: https://csdb.dk/release/?id=66494
 
-Silas_Warner_1
-   AUTHOR: Silas S. Warner
-
-Silas_Warner_2
+Silas_Warner
    AUTHOR: Silas S. Warner
 
 SkyLine_Editor
@@ -1454,32 +1462,32 @@ REFERENCE: https://csdb.dk/release/?id=16309
 (DUSAT/RockMon2)
      NAME: Rock Monitor V2
    AUTHOR: Oscar Giesen (OPM)
- RELEASED: 1987 Dutch USA-Team
+ RELEASED: 1987 The Dutch USA-Team
 REFERENCE: https://csdb.dk/release/?id=20664
 
 (DUSAT/RockMon3)
      NAME: Rock Monitor V3
    AUTHOR: Oscar Giesen (OPM)
- RELEASED: 1987 Dutch USA-Team
+ RELEASED: 1987 The Dutch USA-Team
 REFERENCE: https://csdb.dk/release/?id=33038
 
 (DUSAT/RockMon4)
      NAME: Rock Monitor V4
    AUTHOR: Oscar Giesen (OPM)
- RELEASED: 1987 Dutch USA-Team
+ RELEASED: 1987 The Dutch USA-Team
 REFERENCE: https://csdb.dk/release/?id=20676
 
 (DUSAT/RockMon5.0)
      NAME: Rock Monitor V5
    AUTHOR: Oscar Giesen (OPM)
- RELEASED: 1988 Dutch USA-Team
+ RELEASED: 1988 The Dutch USA-Team
 REFERENCE: https://csdb.dk/release/?id=10632
   COMMENT: Later a 100% version of the editor/player was released.
 
 (DUSAT/RockMon5.1)
      NAME: Rock Monitor V5 100%
    AUTHOR: Oscar Giesen (OPM)
- RELEASED: 1988 Dutch USA-Team
+ RELEASED: 1988 The Dutch USA-Team
 REFERENCE: https://csdb.dk/release/?id=122393
   COMMENT: This is the 100% working version of Rock Monitor 5
 

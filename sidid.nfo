@@ -1221,6 +1221,10 @@ Power_Music
  RELEASED: 1989 Matrix
 REFERENCE: https://csdb.dk/release/?id=61127
 
+Power-Composer
+   AUTHOR: Markus (Biscuit)
+REFERENCE: https://csdb.dk/release/?id=236659
+
 Pretzel/C64Composer
      NAME: C64 Composer
    AUTHOR: Fredrik Blom (Coq Rouge)
@@ -1548,6 +1552,12 @@ Sound-Tracker_64
    AUTHOR: Claus Leth Gregersen (Groo) & Michael Toft (Dean) & Lars Pedersen (Spe)
  RELEASED: 1988 Mechanix 2124
 REFERENCE: https://csdb.dk/release/?id=36365
+
+Star_Bars
+     NAME: Star Bars Atari 2600 Music Editor
+   AUTHOR: Aleksi Eeben
+ RELEASED: 2023
+REFERENCE: https://csdb.dk/release/?id=234625
 
 Stephan/Bytemare
      NAME: Music-Editor

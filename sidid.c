@@ -184,9 +184,10 @@ void readconfig(char *name)
   int temp[MAX_SIGSIZE];
   int sigsize = 0;
   SIDSIG *lastsig = NULL;
+  FILE *in;
 
   printf("Using configfile %s\n", name);
-  FILE *in = fopen(name, "rt");
+  in = fopen(name, "rt");
   if (!in) return;
 
   for (;;)
@@ -360,6 +361,7 @@ void identifyfile(char *name, char *fullname)
   SIDID *id;
   int length;
   int found = 0;
+  FILE *in;
 
   if (!playerid) id = firstid;
   else id = playerid;
@@ -372,7 +374,7 @@ void identifyfile(char *name, char *fullname)
     if (tolower(name[strlen(name) - 1]) != 'd') return;
   }
 
-  FILE *in = fopen(name, "rb");
+  in = fopen(name, "rb");
   if (!in) return;
 
   fseek(in, 0, SEEK_END);
